@@ -1,0 +1,41 @@
+baseURL: http://example.org
+title: "CCLHM0057 História da América: coloniação e resistência, 2020.2"
+theme: hugo-theme-zdoc
+defaultContentLanguage: pt
+defaultContentLanguageInSubdir: no
+hasCJKLanguage: no
+copyright: '&copy;{year}, Eric Brasil, Todos os direitos reservados'
+timeout: 10000
+enableEmoji: yes
+paginate: 13
+rssLimit: 100
+googleAnalytics: ''
+disableKinds: taxonomyTerm
+markup:
+  goldmark:
+    renderer:
+      hardWraps: yes
+      unsafe: yes
+      xHTML: yes
+  highlight:
+    codeFences: yes
+    lineNos: yes
+    lineNumbersInTable: yes
+    noClasses: no
+  tableOfContents:
+    endLevel: 4
+    ordered: no
+    startLevel: 2
+outputs:
+  home:
+    - HTML
+    - RSS
+    - SearchIndex
+outputFormats:
+  SearchIndex:
+    baseName: index
+    isPlainText: yes
+    mediaType: application/json
+    notAlternative: yes
+taxonomies:
+  tag: tags

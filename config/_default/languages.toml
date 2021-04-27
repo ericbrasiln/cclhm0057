@@ -1,0 +1,11 @@
+[en]
+  title = "CCLHM0057"
+  languageName = "English"
+  weight = 2
+  contentdir = "content/en"
+
+[pt]
+  title = "CCLHM0057"
+  languageName = "Portuguese"
+  weight = 1
+  contentdir = "content/pt"

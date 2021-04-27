@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Semanals on CCLHM0057</title>
+    <link>http://example.org/semanal/</link>
+    <description>Recent content in Semanals on CCLHM0057</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt</language>
+    <copyright>&amp;copy;{year}, Eric Brasil, Todos os direitos reservados</copyright>
+    
+        <atom:link href="http://example.org/semanal/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>leitura 1</title>
+        <link>http://example.org/semanal/leitura1/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>http://example.org/semanal/leitura1/</guid>
+        <description>📚 Leitura 1 Professor Eric Brasil
+🗃️ Módulo 1
+📅️: 13/03/2020 - 20/01/2021
+⏳️ Carga Horária: 4h
+PDFs 📎️ O’GORMAN, Edmundo. História e crítica da ideia do descobrimento da América. In: A invenção da América. São Paulo: Unifesp, 1992. SILVA, Kalina Vanderlei; SILVA, Maciel Henrique. “Índio”. In: Dicionário de conceitos históricos. São Paulo: Contexto, 2009 FAZION, Heloisa Pires &amp;amp; MOLINA, Ana Heloisa. Abordagens sobre o ensino história da América no Brasil e análise do livro paradidático “A descoberta da América” de Carlos Guilherme Mota.</description>
+      </item>
+      
+    
+  </channel>
+</rss>

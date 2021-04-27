@@ -1,0 +1,29 @@
+[[main]]
+  identifier = "programa"
+  name = "Programa"
+  url = "programa"
+  weight = 1
+
+[[main]]
+  identifier = "cronograma"
+  name = "Cronograma"
+  url = "cronograma"
+  weight = 2
+  
+[[main]]
+  identifier = "Atividades Semanais"
+  name = "Atividades Semanais"
+  url = "semanal"
+  weight = 3
+
+[[main]]
+  identifier = "noticias"
+  name = "Notícias"
+  url = "noticias"
+  weight = 4
+
+[[main]]
+  identifier = "contato"
+  name = "Contato"
+  url = "contato"
+  weight = 5

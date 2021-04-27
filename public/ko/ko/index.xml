@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ZDoc on CCLHM0057</title>
+    <link>http://example.org/ko/ko/</link>
+    <description>Recent content in ZDoc on CCLHM0057</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko</language>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Sun, 26 Jan 2020 04:15:05 +0900</lastBuildDate>
+    
+        <atom:link href="http://example.org/ko/ko/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>Updates</title>
+        <link>http://example.org/ko/ko/updates/</link>
+        <pubDate>Tue, 28 Jan 2020 00:08:29 +0900</pubDate>
+        
+        <guid>http://example.org/ko/ko/updates/</guid>
+        <description>Updates</description>
+      </item>
+      
+      <item>
+        <title>Docs</title>
+        <link>http://example.org/ko/ko/docs/</link>
+        <pubDate>Sat, 11 Jan 2020 14:09:21 +0900</pubDate>
+        
+        <guid>http://example.org/ko/ko/docs/</guid>
+        <description>Docs page.</description>
+      </item>
+      
+      <item>
+        <title>Blog</title>
+        <link>http://example.org/ko/ko/blog/</link>
+        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+        
+        <guid>http://example.org/ko/ko/blog/</guid>
+        <description></description>
+      </item>
+      
+    
+  </channel>
+</rss>

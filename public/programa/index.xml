@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Programa on CCLHM0057</title>
+    <link>http://example.org/programa/</link>
+    <description>Recent content in Programa on CCLHM0057</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt</language>
+    <copyright>&amp;copy;{year}, Eric Brasil, Todos os direitos reservados</copyright>
+    <lastBuildDate>Wed, 31 Mar 2021 13:54:05 -0300</lastBuildDate>
+    
+        <atom:link href="http://example.org/programa/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>1. Ementa</title>
+        <link>http://example.org/programa/1-ementa/</link>
+        <pubDate>Wed, 31 Mar 2021 14:21:46 -0300</pubDate>
+        
+        <guid>http://example.org/programa/1-ementa/</guid>
+        <description>CCLHM0057 - História da América: colonização e resistência Professor Eric Brasil
+Instituto de Humanidades e Letras, campus dos Malês, Universidade da Integração Internacional da Lusofonia Afro-brasileira (UNILAB)
+Disciplina obrigatória do curso de licenciatura em História
+Semestre: 2020.2
+Carga Horária:
+   Teórica Prática como compontente curricular Total     60h 15h 75h    Horário das aulas síncronas (conforme cronograma): quintas, 19h às 21h
+Ementa Formações sociais e políticas nas Américas antes do século XV: representações, história e historiografia.</description>
+      </item>
+      
+      <item>
+        <title>2. Metodologia</title>
+        <link>http://example.org/programa/2-metodologia/</link>
+        <pubDate>Wed, 31 Mar 2021 15:06:16 -0300</pubDate>
+        
+        <guid>http://example.org/programa/2-metodologia/</guid>
+        <description>Metodologias de ensino: O curso será divido em 5 módulos. Cada módulo reúne um conjunto de atividades síncronas e assíncronas organizadas por semana.
+Atividades Síncronas (AS): Encontros virtuais (EV):   Os encontros virtuais terão entre uma hora e uma hora e trinta minutos de duração, entre 19h e 20h30min, às quartas-feiras definidas no cronograma;
+  Os encontros virtuais serão focados em debate de textos da bibliografia do curso. Não serão aulas expositivas, portanto, a leitura dos textos indicados é fundamental para participar do encontro;</description>
+      </item>
+      
+      <item>
+        <title>3. Módulos</title>
+        <link>http://example.org/programa/3-modulos/</link>
+        <pubDate>Wed, 31 Mar 2021 23:12:26 -0300</pubDate>
+        
+        <guid>http://example.org/programa/3-modulos/</guid>
+        <description>Módulos  AMÉRICA, AMÉRICAS E O ENSINO DE HISTÓRIA. SOCIEDADES AUTÓTOCNES AMERICANAS ANTES DO SÉC. XVI. CONQUISTAS E RESISTÊNCIAS (XVI-XVII). FORMAÇÃO DA SOCIEDADE COLONIAL ESPANHOLA (XVI-XVIII). ESCRAVIDÃO AFRICANA NAS AMÉRICAS (XVI-XVIII).  </description>
+      </item>
+      
+    
+  </channel>
+</rss>
