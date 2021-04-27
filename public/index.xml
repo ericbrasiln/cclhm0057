@@ -2,105 +2,121 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>CCLHM0057</title>
-    <link>http://example.org/</link>
+    <link>https://cclhm0057.netlify.app/</link>
     <description>Recent content on CCLHM0057</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt</language>
-    <copyright>&amp;copy;{year}, Eric Brasil, Todos os direitos reservados</copyright>
+    <managingEditor>profericbrasil@unilab.edu.br (Professor Eric Brasil)</managingEditor>
+    <webMaster>profericbrasil@unilab.edu.br (Professor Eric Brasil)</webMaster>
+    <copyright>Conteúdo original criado por Eric Brasil sob licença &lt;a rel=&#39;license&#39; href=&#39;http://creativecommons.org/licenses/by-nc/4.0/&#39;&gt;Creative Commons Attribution-NonCommercial 4.0 International License&lt;/a&gt;&lt;br&gt;&lt;a rel=&#39;license&#39; href=&#39;http://creativecommons.org/licenses/by-nc/4.0/&#39;&gt;&lt;img alt=&#39;Creative Commons License logo&#39; style=&#39;border-width:0&#39; src=&#39;https://i.creativecommons.org/l/by-nc/4.0/88x31.png&#39; /&gt;&lt;/a&gt;</copyright>
     <lastBuildDate>Sun, 26 Jan 2020 04:15:05 +0900</lastBuildDate>
     
-        <atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://cclhm0057.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     
     
     
       
       <item>
         <title>May 2019</title>
-        <link>http://example.org/updates/2019_may/</link>
+        <link>https://cclhm0057.netlify.app/updates/2019_may/</link>
         <pubDate>Tue, 28 Jan 2020 00:10:51 +0900</pubDate>
-        
-        <guid>http://example.org/updates/2019_may/</guid>
+        <author>profericbrasil@unilab.edu.br (Professor Eric Brasil)</author>
+        <guid>https://cclhm0057.netlify.app/updates/2019_may/</guid>
         <description>Markdown here</description>
       </item>
       
       <item>
         <title>Basic Usage</title>
-        <link>http://example.org/docs/gettingstarted/basicusage/</link>
+        <link>https://cclhm0057.netlify.app/docs/gettingstarted/basicusage/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:51 +0900</pubDate>
-        
-        <guid>http://example.org/docs/gettingstarted/basicusage/</guid>
+        <author>profericbrasil@unilab.edu.br (Professor Eric Brasil)</author>
+        <guid>https://cclhm0057.netlify.app/docs/gettingstarted/basicusage/</guid>
         <description>Markdown here</description>
       </item>
       
       <item>
         <title>April 2019</title>
-        <link>http://example.org/updates/2019_april/</link>
+        <link>https://cclhm0057.netlify.app/updates/2019_april/</link>
         <pubDate>Tue, 28 Jan 2020 00:10:48 +0900</pubDate>
-        
-        <guid>http://example.org/updates/2019_april/</guid>
+        <author>profericbrasil@unilab.edu.br (Professor Eric Brasil)</author>
+        <guid>https://cclhm0057.netlify.app/updates/2019_april/</guid>
         <description>Markdown here</description>
       </item>
       
       <item>
         <title>Configuration</title>
-        <link>http://example.org/docs/gettingstarted/configuration/</link>
+        <link>https://cclhm0057.netlify.app/docs/gettingstarted/configuration/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:56 +0900</pubDate>
-        
-        <guid>http://example.org/docs/gettingstarted/configuration/</guid>
+        <author>profericbrasil@unilab.edu.br (Professor Eric Brasil)</author>
+        <guid>https://cclhm0057.netlify.app/docs/gettingstarted/configuration/</guid>
         <description>Markdown here</description>
       </item>
       
       <item>
         <title>March 2019</title>
-        <link>http://example.org/updates/2019_march/</link>
+        <link>https://cclhm0057.netlify.app/updates/2019_march/</link>
         <pubDate>Tue, 28 Jan 2020 00:10:42 +0900</pubDate>
-        
-        <guid>http://example.org/updates/2019_march/</guid>
+        <author>profericbrasil@unilab.edu.br (Professor Eric Brasil)</author>
+        <guid>https://cclhm0057.netlify.app/updates/2019_march/</guid>
         <description>Markdown here</description>
       </item>
       
       <item>
         <title>Installation</title>
-        <link>http://example.org/docs/gettingstarted/installation/</link>
+        <link>https://cclhm0057.netlify.app/docs/gettingstarted/installation/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:13 +0900</pubDate>
-        
-        <guid>http://example.org/docs/gettingstarted/installation/</guid>
+        <author>profericbrasil@unilab.edu.br (Professor Eric Brasil)</author>
+        <guid>https://cclhm0057.netlify.app/docs/gettingstarted/installation/</guid>
         <description>Markdown here</description>
       </item>
       
       <item>
         <title>February 2019</title>
-        <link>http://example.org/updates/2019_february/</link>
+        <link>https://cclhm0057.netlify.app/updates/2019_february/</link>
         <pubDate>Tue, 28 Jan 2020 00:10:37 +0900</pubDate>
-        
-        <guid>http://example.org/updates/2019_february/</guid>
+        <author>profericbrasil@unilab.edu.br (Professor Eric Brasil)</author>
+        <guid>https://cclhm0057.netlify.app/updates/2019_february/</guid>
         <description>Markdown here</description>
       </item>
       
       <item>
         <title>Quick Start</title>
-        <link>http://example.org/docs/gettingstarted/quickstart/</link>
+        <link>https://cclhm0057.netlify.app/docs/gettingstarted/quickstart/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:41 +0900</pubDate>
-        
-        <guid>http://example.org/docs/gettingstarted/quickstart/</guid>
+        <author>profericbrasil@unilab.edu.br (Professor Eric Brasil)</author>
+        <guid>https://cclhm0057.netlify.app/docs/gettingstarted/quickstart/</guid>
         <description>Markdown here</description>
       </item>
       
       <item>
         <title>January 2019</title>
-        <link>http://example.org/updates/2019_january/</link>
+        <link>https://cclhm0057.netlify.app/updates/2019_january/</link>
         <pubDate>Tue, 28 Jan 2020 00:10:09 +0900</pubDate>
-        
-        <guid>http://example.org/updates/2019_january/</guid>
+        <author>profericbrasil@unilab.edu.br (Professor Eric Brasil)</author>
+        <guid>https://cclhm0057.netlify.app/updates/2019_january/</guid>
         <description>Markdown here</description>
       </item>
       
       <item>
         <title>Módulo 1</title>
-        <link>http://example.org/cronograma/modulo1/</link>
+        <link>https://cclhm0057.netlify.app/semanal/mod1/</link>
+        <pubDate>Tue, 27 Apr 2021 00:00:00 +0000</pubDate>
+        <author>profericbrasil@unilab.edu.br (Professor Eric Brasil)</author>
+        <guid>https://cclhm0057.netlify.app/semanal/mod1/</guid>
+        <description>Módulo 1 América, Américas
+Semana 1 - 17/05/2021 a 21/05/2021 inserir&amp;hellip;
+Semana 2 - 24/05/2021 a 28/05/2021 inserir&amp;hellip;
+📚 Leitura 1 📅️: 13/03/2020 - 20/01/2021
+⏳️ Carga Horária: 4h
+PDFs 📎️  O&amp;rsquo;GORMAN, Edmundo. História e crítica da ideia do descobrimento da América. In: A invenção da América. São Paulo: Unifesp, 1992. SILVA, Kalina Vanderlei; SILVA, Maciel Henrique. “Índio”. In: Dicionário de conceitos históricos. São Paulo: Contexto, 2009 FAZION, Heloisa Pires &amp;amp; MOLINA, Ana Heloisa.</description>
+      </item>
+      
+      <item>
+        <title>Módulo 1</title>
+        <link>https://cclhm0057.netlify.app/cronograma/modulo1/</link>
         <pubDate>Wed, 31 Mar 2021 23:16:52 -0300</pubDate>
-        
-        <guid>http://example.org/cronograma/modulo1/</guid>
+        <author>profericbrasil@unilab.edu.br (Professor Eric Brasil)</author>
+        <guid>https://cclhm0057.netlify.app/cronograma/modulo1/</guid>
         <description>Encontro virtual 01 Data: &amp;mdash;
 Tema: Apresentação e reflexões sobre a disciplina
 Tipo: Síncrona
@@ -111,10 +127,10 @@ CH: 1h30
       
       <item>
         <title>1. Ementa</title>
-        <link>http://example.org/programa/1-ementa/</link>
+        <link>https://cclhm0057.netlify.app/programa/1-ementa/</link>
         <pubDate>Wed, 31 Mar 2021 14:21:46 -0300</pubDate>
-        
-        <guid>http://example.org/programa/1-ementa/</guid>
+        <author>profericbrasil@unilab.edu.br (Professor Eric Brasil)</author>
+        <guid>https://cclhm0057.netlify.app/programa/1-ementa/</guid>
         <description>CCLHM0057 - História da América: colonização e resistência Professor Eric Brasil
 Instituto de Humanidades e Letras, campus dos Malês, Universidade da Integração Internacional da Lusofonia Afro-brasileira (UNILAB)
 Disciplina obrigatória do curso de licenciatura em História
@@ -126,50 +142,37 @@ Ementa Formações sociais e políticas nas Américas antes do século XV: repre
       
       <item>
         <title>Test 1</title>
-        <link>http://example.org/docs/depth1/test1/</link>
+        <link>https://cclhm0057.netlify.app/docs/depth1/test1/</link>
         <pubDate>Thu, 30 Jan 2020 00:38:25 +0900</pubDate>
-        
-        <guid>http://example.org/docs/depth1/test1/</guid>
+        <author>profericbrasil@unilab.edu.br (Professor Eric Brasil)</author>
+        <guid>https://cclhm0057.netlify.app/docs/depth1/test1/</guid>
         <description></description>
       </item>
       
       <item>
         <title>Test 2</title>
-        <link>http://example.org/docs/depth1/depth2/test2/</link>
+        <link>https://cclhm0057.netlify.app/docs/depth1/depth2/test2/</link>
         <pubDate>Thu, 30 Jan 2020 00:38:25 +0900</pubDate>
-        
-        <guid>http://example.org/docs/depth1/depth2/test2/</guid>
+        <author>profericbrasil@unilab.edu.br (Professor Eric Brasil)</author>
+        <guid>https://cclhm0057.netlify.app/docs/depth1/depth2/test2/</guid>
         <description></description>
       </item>
       
       <item>
         <title>Test 3</title>
-        <link>http://example.org/docs/depth1/depth2/depth3/test3/</link>
+        <link>https://cclhm0057.netlify.app/docs/depth1/depth2/depth3/test3/</link>
         <pubDate>Thu, 30 Jan 2020 00:38:25 +0900</pubDate>
-        
-        <guid>http://example.org/docs/depth1/depth2/depth3/test3/</guid>
+        <author>profericbrasil@unilab.edu.br (Professor Eric Brasil)</author>
+        <guid>https://cclhm0057.netlify.app/docs/depth1/depth2/depth3/test3/</guid>
         <description></description>
       </item>
       
       <item>
-        <title>leitura 1</title>
-        <link>http://example.org/semanal/leitura1/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        
-        <guid>http://example.org/semanal/leitura1/</guid>
-        <description>📚 Leitura 1 Professor Eric Brasil
-🗃️ Módulo 1
-📅️: 13/03/2020 - 20/01/2021
-⏳️ Carga Horária: 4h
-PDFs 📎️ O’GORMAN, Edmundo. História e crítica da ideia do descobrimento da América. In: A invenção da América. São Paulo: Unifesp, 1992. SILVA, Kalina Vanderlei; SILVA, Maciel Henrique. “Índio”. In: Dicionário de conceitos históricos. São Paulo: Contexto, 2009 FAZION, Heloisa Pires &amp;amp; MOLINA, Ana Heloisa. Abordagens sobre o ensino história da América no Brasil e análise do livro paradidático “A descoberta da América” de Carlos Guilherme Mota.</description>
-      </item>
-      
-      <item>
         <title>2. Metodologia</title>
-        <link>http://example.org/programa/2-metodologia/</link>
+        <link>https://cclhm0057.netlify.app/programa/2-metodologia/</link>
         <pubDate>Wed, 31 Mar 2021 15:06:16 -0300</pubDate>
-        
-        <guid>http://example.org/programa/2-metodologia/</guid>
+        <author>profericbrasil@unilab.edu.br (Professor Eric Brasil)</author>
+        <guid>https://cclhm0057.netlify.app/programa/2-metodologia/</guid>
         <description>Metodologias de ensino: O curso será divido em 5 módulos. Cada módulo reúne um conjunto de atividades síncronas e assíncronas organizadas por semana.
 Atividades Síncronas (AS): Encontros virtuais (EV):   Os encontros virtuais terão entre uma hora e uma hora e trinta minutos de duração, entre 19h e 20h30min, às quartas-feiras definidas no cronograma;
   Os encontros virtuais serão focados em debate de textos da bibliografia do curso. Não serão aulas expositivas, portanto, a leitura dos textos indicados é fundamental para participar do encontro;</description>
@@ -177,91 +180,118 @@ Atividades Síncronas (AS): Encontros virtuais (EV):   Os encontros virtuais ter
       
       <item>
         <title>ttttest</title>
-        <link>http://example.org/docs/depth1/ttttest/</link>
+        <link>https://cclhm0057.netlify.app/docs/depth1/ttttest/</link>
         <pubDate>Thu, 30 Jan 2020 00:38:25 +0900</pubDate>
-        
-        <guid>http://example.org/docs/depth1/ttttest/</guid>
+        <author>profericbrasil@unilab.edu.br (Professor Eric Brasil)</author>
+        <guid>https://cclhm0057.netlify.app/docs/depth1/ttttest/</guid>
         <description></description>
       </item>
       
       <item>
-        <title>3. Módulos</title>
-        <link>http://example.org/programa/3-modulos/</link>
+        <title>3. Cronograma</title>
+        <link>https://cclhm0057.netlify.app/programa/3-cronograma/</link>
         <pubDate>Wed, 31 Mar 2021 23:12:26 -0300</pubDate>
-        
-        <guid>http://example.org/programa/3-modulos/</guid>
-        <description>Módulos  AMÉRICA, AMÉRICAS E O ENSINO DE HISTÓRIA. SOCIEDADES AUTÓTOCNES AMERICANAS ANTES DO SÉC. XVI. CONQUISTAS E RESISTÊNCIAS (XVI-XVII). FORMAÇÃO DA SOCIEDADE COLONIAL ESPANHOLA (XVI-XVIII). ESCRAVIDÃO AFRICANA NAS AMÉRICAS (XVI-XVIII).  </description>
+        <author>profericbrasil@unilab.edu.br (Professor Eric Brasil)</author>
+        <guid>https://cclhm0057.netlify.app/programa/3-cronograma/</guid>
+        <description>A divisão dos dias, atividades e temas
+Módulos  AMÉRICA, AMÉRICAS E O ENSINO DE HISTÓRIA. SOCIEDADES AUTÓTOCNES AMERICANAS ANTES DO SÉC. XVI. CONQUISTAS E RESISTÊNCIAS (XVI-XVII). FORMAÇÃO DA SOCIEDADE COLONIAL ESPANHOLA (XVI-XVIII). ESCRAVIDÃO AFRICANA NAS AMÉRICAS (XVI-XVIII).  </description>
+      </item>
+      
+      <item>
+        <title>4. Como usar esse site</title>
+        <link>https://cclhm0057.netlify.app/programa/4-site/</link>
+        <pubDate>Tue, 27 Apr 2021 00:00:00 +0000</pubDate>
+        <author>profericbrasil@unilab.edu.br (Professor Eric Brasil)</author>
+        <guid>https://cclhm0057.netlify.app/programa/4-site/</guid>
+        <description>Explicações e dicas técnicas e acadêmicas sobre os usos e limites desse site.
+Construção do site Esse site é uma página estática construído com Hugo e o pacote blogdown em R.
+O repositório, com todo o código e os materiais usados, está disponível no Github e utilizei o Netlify para fazer a publicação da página on-line.
+Usando os recursos AAAAAAAAAAAAAAAAA</description>
+      </item>
+      
+      <item>
+        <title>4. Guia de boas práticas</title>
+        <link>https://cclhm0057.netlify.app/programa/5-praticas/</link>
+        <pubDate>Tue, 27 Apr 2021 00:00:00 +0000</pubDate>
+        <author>profericbrasil@unilab.edu.br (Professor Eric Brasil)</author>
+        <guid>https://cclhm0057.netlify.app/programa/5-praticas/</guid>
+        <description>Conjunto de sugestões e indicações de boas práticas para o bom funcionamento do curso ao longo do semestre 2020.2.
+Sobre os encontros virtuais Explicar&amp;hellip;.
+Leituras Obrigatórias&amp;hellip;
+Sobre a realização das atividades assíncronas Explicar
+Sobre a correção das atividades escritas Referências Plágio Contato Humano Expicar
+Discord </description>
       </item>
       
       <item>
         <title>Related content</title>
-        <link>http://example.org/docs/relatedcontent/</link>
+        <link>https://cclhm0057.netlify.app/docs/relatedcontent/</link>
         <pubDate>Tue, 28 Jan 2020 00:39:09 +0900</pubDate>
-        
-        <guid>http://example.org/docs/relatedcontent/</guid>
+        <author>profericbrasil@unilab.edu.br (Professor Eric Brasil)</author>
+        <guid>https://cclhm0057.netlify.app/docs/relatedcontent/</guid>
         <description>Markdown here</description>
       </item>
       
       <item>
         <title>Page Resources</title>
-        <link>http://example.org/docs/pageresources/</link>
+        <link>https://cclhm0057.netlify.app/docs/pageresources/</link>
         <pubDate>Tue, 28 Jan 2020 00:39:06 +0900</pubDate>
-        
-        <guid>http://example.org/docs/pageresources/</guid>
+        <author>profericbrasil@unilab.edu.br (Professor Eric Brasil)</author>
+        <guid>https://cclhm0057.netlify.app/docs/pageresources/</guid>
         <description>Markdown here</description>
       </item>
       
       <item>
         <title>Page Bundles</title>
-        <link>http://example.org/docs/pagebundles/</link>
+        <link>https://cclhm0057.netlify.app/docs/pagebundles/</link>
         <pubDate>Tue, 28 Jan 2020 00:38:59 +0900</pubDate>
-        
-        <guid>http://example.org/docs/pagebundles/</guid>
+        <author>profericbrasil@unilab.edu.br (Professor Eric Brasil)</author>
+        <guid>https://cclhm0057.netlify.app/docs/pagebundles/</guid>
         <description>Markdown here</description>
       </item>
       
       <item>
         <title>Content Formats</title>
-        <link>http://example.org/docs/contentfortmats/</link>
+        <link>https://cclhm0057.netlify.app/docs/contentfortmats/</link>
         <pubDate>Tue, 28 Jan 2020 00:38:51 +0900</pubDate>
-        
-        <guid>http://example.org/docs/contentfortmats/</guid>
+        <author>profericbrasil@unilab.edu.br (Professor Eric Brasil)</author>
+        <guid>https://cclhm0057.netlify.app/docs/contentfortmats/</guid>
         <description>Markdown here</description>
       </item>
       
       <item>
         <title>Image Processing</title>
-        <link>http://example.org/docs/imageprocessing/</link>
+        <link>https://cclhm0057.netlify.app/docs/imageprocessing/</link>
         <pubDate>Tue, 28 Jan 2020 00:38:48 +0900</pubDate>
-        
-        <guid>http://example.org/docs/imageprocessing/</guid>
+        <author>profericbrasil@unilab.edu.br (Professor Eric Brasil)</author>
+        <guid>https://cclhm0057.netlify.app/docs/imageprocessing/</guid>
         <description>Markdown here</description>
       </item>
       
       <item>
         <title>Shortcodes</title>
-        <link>http://example.org/docs/contentmanagement/shortcodes/</link>
+        <link>https://cclhm0057.netlify.app/docs/contentmanagement/shortcodes/</link>
         <pubDate>Tue, 28 Jan 2020 00:36:19 +0900</pubDate>
-        
-        <guid>http://example.org/docs/contentmanagement/shortcodes/</guid>
+        <author>profericbrasil@unilab.edu.br (Professor Eric Brasil)</author>
+        <guid>https://cclhm0057.netlify.app/docs/contentmanagement/shortcodes/</guid>
         <description>Markdown here</description>
       </item>
       
       <item>
         <title>Frontmatter</title>
-        <link>http://example.org/docs/contentmanagement/frontmatter/</link>
+        <link>https://cclhm0057.netlify.app/docs/contentmanagement/frontmatter/</link>
         <pubDate>Tue, 28 Jan 2020 00:36:14 +0900</pubDate>
-        
-        <guid>http://example.org/docs/contentmanagement/frontmatter/</guid>
+        <author>profericbrasil@unilab.edu.br (Professor Eric Brasil)</author>
+        <guid>https://cclhm0057.netlify.app/docs/contentmanagement/frontmatter/</guid>
         <description>Markdown here</description>
       </item>
       
       <item>
         <title>Section</title>
-        <link>http://example.org/docs/contentmanagement/sections/</link>
+        <link>https://cclhm0057.netlify.app/docs/contentmanagement/sections/</link>
         <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-        
-        <guid>http://example.org/docs/contentmanagement/sections/</guid>
+        <author>profericbrasil@unilab.edu.br (Professor Eric Brasil)</author>
+        <guid>https://cclhm0057.netlify.app/docs/contentmanagement/sections/</guid>
         <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
       </item>
       

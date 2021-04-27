@@ -2,141 +2,143 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Z Themes on CCLHM0057</title>
-    <link>http://example.org/en/</link>
+    <link>https://cclhm0057.netlify.app/en/</link>
     <description>Recent content in Z Themes on CCLHM0057</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>&amp;copy;{year}, Eric Brasil, Todos os direitos reservados</copyright>
+    <managingEditor>profericbrasil@unilab.edu.br (Professor Eric Brasil)</managingEditor>
+    <webMaster>profericbrasil@unilab.edu.br (Professor Eric Brasil)</webMaster>
+    <copyright>Conteúdo original criado por Eric Brasil sob licença &lt;a rel=&#39;license&#39; href=&#39;http://creativecommons.org/licenses/by-nc/4.0/&#39;&gt;Creative Commons Attribution-NonCommercial 4.0 International License&lt;/a&gt;&lt;br&gt;&lt;a rel=&#39;license&#39; href=&#39;http://creativecommons.org/licenses/by-nc/4.0/&#39;&gt;&lt;img alt=&#39;Creative Commons License logo&#39; style=&#39;border-width:0&#39; src=&#39;https://i.creativecommons.org/l/by-nc/4.0/88x31.png&#39; /&gt;&lt;/a&gt;</copyright>
     <lastBuildDate>Sun, 26 Jan 2020 04:15:05 +0900</lastBuildDate>
     
-        <atom:link href="http://example.org/en/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://cclhm0057.netlify.app/en/index.xml" rel="self" type="application/rss+xml" />
     
     
     
       
       <item>
         <title>May 2019</title>
-        <link>http://example.org/en/updates/2019_may/</link>
+        <link>https://cclhm0057.netlify.app/en/updates/2019_may/</link>
         <pubDate>Tue, 28 Jan 2020 00:10:51 +0900</pubDate>
-        
-        <guid>http://example.org/en/updates/2019_may/</guid>
+        <author>profericbrasil@unilab.edu.br (Professor Eric Brasil)</author>
+        <guid>https://cclhm0057.netlify.app/en/updates/2019_may/</guid>
         <description>Markdown here</description>
       </item>
       
       <item>
         <title>Basic Usage</title>
-        <link>http://example.org/en/docs/gettingstarted/basicusage/</link>
+        <link>https://cclhm0057.netlify.app/en/docs/gettingstarted/basicusage/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:51 +0900</pubDate>
-        
-        <guid>http://example.org/en/docs/gettingstarted/basicusage/</guid>
+        <author>profericbrasil@unilab.edu.br (Professor Eric Brasil)</author>
+        <guid>https://cclhm0057.netlify.app/en/docs/gettingstarted/basicusage/</guid>
         <description>Markdown here</description>
       </item>
       
       <item>
         <title>April 2019</title>
-        <link>http://example.org/en/updates/2019_april/</link>
+        <link>https://cclhm0057.netlify.app/en/updates/2019_april/</link>
         <pubDate>Tue, 28 Jan 2020 00:10:48 +0900</pubDate>
-        
-        <guid>http://example.org/en/updates/2019_april/</guid>
+        <author>profericbrasil@unilab.edu.br (Professor Eric Brasil)</author>
+        <guid>https://cclhm0057.netlify.app/en/updates/2019_april/</guid>
         <description>Markdown here</description>
       </item>
       
       <item>
         <title>Configuration</title>
-        <link>http://example.org/en/docs/gettingstarted/configuration/</link>
+        <link>https://cclhm0057.netlify.app/en/docs/gettingstarted/configuration/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:56 +0900</pubDate>
-        
-        <guid>http://example.org/en/docs/gettingstarted/configuration/</guid>
+        <author>profericbrasil@unilab.edu.br (Professor Eric Brasil)</author>
+        <guid>https://cclhm0057.netlify.app/en/docs/gettingstarted/configuration/</guid>
         <description>Markdown here</description>
       </item>
       
       <item>
         <title>March 2019</title>
-        <link>http://example.org/en/updates/2019_march/</link>
+        <link>https://cclhm0057.netlify.app/en/updates/2019_march/</link>
         <pubDate>Tue, 28 Jan 2020 00:10:42 +0900</pubDate>
-        
-        <guid>http://example.org/en/updates/2019_march/</guid>
+        <author>profericbrasil@unilab.edu.br (Professor Eric Brasil)</author>
+        <guid>https://cclhm0057.netlify.app/en/updates/2019_march/</guid>
         <description>Markdown here</description>
       </item>
       
       <item>
         <title>Installation</title>
-        <link>http://example.org/en/docs/gettingstarted/installation/</link>
+        <link>https://cclhm0057.netlify.app/en/docs/gettingstarted/installation/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:13 +0900</pubDate>
-        
-        <guid>http://example.org/en/docs/gettingstarted/installation/</guid>
+        <author>profericbrasil@unilab.edu.br (Professor Eric Brasil)</author>
+        <guid>https://cclhm0057.netlify.app/en/docs/gettingstarted/installation/</guid>
         <description>Markdown here</description>
       </item>
       
       <item>
         <title>February 2019</title>
-        <link>http://example.org/en/updates/2019_february/</link>
+        <link>https://cclhm0057.netlify.app/en/updates/2019_february/</link>
         <pubDate>Tue, 28 Jan 2020 00:10:37 +0900</pubDate>
-        
-        <guid>http://example.org/en/updates/2019_february/</guid>
+        <author>profericbrasil@unilab.edu.br (Professor Eric Brasil)</author>
+        <guid>https://cclhm0057.netlify.app/en/updates/2019_february/</guid>
         <description>Markdown here</description>
       </item>
       
       <item>
         <title>Quick Start</title>
-        <link>http://example.org/en/docs/gettingstarted/quickstart/</link>
+        <link>https://cclhm0057.netlify.app/en/docs/gettingstarted/quickstart/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:41 +0900</pubDate>
-        
-        <guid>http://example.org/en/docs/gettingstarted/quickstart/</guid>
+        <author>profericbrasil@unilab.edu.br (Professor Eric Brasil)</author>
+        <guid>https://cclhm0057.netlify.app/en/docs/gettingstarted/quickstart/</guid>
         <description>Markdown here</description>
       </item>
       
       <item>
         <title>January 2019</title>
-        <link>http://example.org/en/updates/2019_january/</link>
+        <link>https://cclhm0057.netlify.app/en/updates/2019_january/</link>
         <pubDate>Tue, 28 Jan 2020 00:10:09 +0900</pubDate>
-        
-        <guid>http://example.org/en/updates/2019_january/</guid>
+        <author>profericbrasil@unilab.edu.br (Professor Eric Brasil)</author>
+        <guid>https://cclhm0057.netlify.app/en/updates/2019_january/</guid>
         <description>Markdown here</description>
       </item>
       
       <item>
         <title>Test 1</title>
-        <link>http://example.org/en/docs/depth1/test1/</link>
+        <link>https://cclhm0057.netlify.app/en/docs/depth1/test1/</link>
         <pubDate>Thu, 30 Jan 2020 00:38:25 +0900</pubDate>
-        
-        <guid>http://example.org/en/docs/depth1/test1/</guid>
+        <author>profericbrasil@unilab.edu.br (Professor Eric Brasil)</author>
+        <guid>https://cclhm0057.netlify.app/en/docs/depth1/test1/</guid>
         <description></description>
       </item>
       
       <item>
         <title>Test 2</title>
-        <link>http://example.org/en/docs/depth1/depth2/test2/</link>
+        <link>https://cclhm0057.netlify.app/en/docs/depth1/depth2/test2/</link>
         <pubDate>Thu, 30 Jan 2020 00:38:25 +0900</pubDate>
-        
-        <guid>http://example.org/en/docs/depth1/depth2/test2/</guid>
+        <author>profericbrasil@unilab.edu.br (Professor Eric Brasil)</author>
+        <guid>https://cclhm0057.netlify.app/en/docs/depth1/depth2/test2/</guid>
         <description></description>
       </item>
       
       <item>
         <title>Test 3</title>
-        <link>http://example.org/en/docs/depth1/depth2/depth3/test3/</link>
+        <link>https://cclhm0057.netlify.app/en/docs/depth1/depth2/depth3/test3/</link>
         <pubDate>Thu, 30 Jan 2020 00:38:25 +0900</pubDate>
-        
-        <guid>http://example.org/en/docs/depth1/depth2/depth3/test3/</guid>
+        <author>profericbrasil@unilab.edu.br (Professor Eric Brasil)</author>
+        <guid>https://cclhm0057.netlify.app/en/docs/depth1/depth2/depth3/test3/</guid>
         <description></description>
       </item>
       
       <item>
         <title>ttttest</title>
-        <link>http://example.org/en/docs/depth1/ttttest/</link>
+        <link>https://cclhm0057.netlify.app/en/docs/depth1/ttttest/</link>
         <pubDate>Thu, 30 Jan 2020 00:38:25 +0900</pubDate>
-        
-        <guid>http://example.org/en/docs/depth1/ttttest/</guid>
+        <author>profericbrasil@unilab.edu.br (Professor Eric Brasil)</author>
+        <guid>https://cclhm0057.netlify.app/en/docs/depth1/ttttest/</guid>
         <description></description>
       </item>
       
       <item>
         <title>Hello R Markdown</title>
-        <link>http://example.org/en/blog/2020-12-01-r-rmarkdown/</link>
+        <link>https://cclhm0057.netlify.app/en/blog/2020-12-01-r-rmarkdown/</link>
         <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
-        
-        <guid>http://example.org/en/blog/2020-12-01-r-rmarkdown/</guid>
+        <author>profericbrasil@unilab.edu.br (Professor Eric Brasil)</author>
+        <guid>https://cclhm0057.netlify.app/en/blog/2020-12-01-r-rmarkdown/</guid>
         <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
 You can embed an R code chunk like this:
 summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.</description>
@@ -144,73 +146,73 @@ summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 2
       
       <item>
         <title>Related content</title>
-        <link>http://example.org/en/docs/relatedcontent/</link>
+        <link>https://cclhm0057.netlify.app/en/docs/relatedcontent/</link>
         <pubDate>Tue, 28 Jan 2020 00:39:09 +0900</pubDate>
-        
-        <guid>http://example.org/en/docs/relatedcontent/</guid>
+        <author>profericbrasil@unilab.edu.br (Professor Eric Brasil)</author>
+        <guid>https://cclhm0057.netlify.app/en/docs/relatedcontent/</guid>
         <description>Markdown here</description>
       </item>
       
       <item>
         <title>Page Resources</title>
-        <link>http://example.org/en/docs/pageresources/</link>
+        <link>https://cclhm0057.netlify.app/en/docs/pageresources/</link>
         <pubDate>Tue, 28 Jan 2020 00:39:06 +0900</pubDate>
-        
-        <guid>http://example.org/en/docs/pageresources/</guid>
+        <author>profericbrasil@unilab.edu.br (Professor Eric Brasil)</author>
+        <guid>https://cclhm0057.netlify.app/en/docs/pageresources/</guid>
         <description>Markdown here</description>
       </item>
       
       <item>
         <title>Page Bundles</title>
-        <link>http://example.org/en/docs/pagebundles/</link>
+        <link>https://cclhm0057.netlify.app/en/docs/pagebundles/</link>
         <pubDate>Tue, 28 Jan 2020 00:38:59 +0900</pubDate>
-        
-        <guid>http://example.org/en/docs/pagebundles/</guid>
+        <author>profericbrasil@unilab.edu.br (Professor Eric Brasil)</author>
+        <guid>https://cclhm0057.netlify.app/en/docs/pagebundles/</guid>
         <description>Markdown here</description>
       </item>
       
       <item>
         <title>Content Formats</title>
-        <link>http://example.org/en/docs/contentfortmats/</link>
+        <link>https://cclhm0057.netlify.app/en/docs/contentfortmats/</link>
         <pubDate>Tue, 28 Jan 2020 00:38:51 +0900</pubDate>
-        
-        <guid>http://example.org/en/docs/contentfortmats/</guid>
+        <author>profericbrasil@unilab.edu.br (Professor Eric Brasil)</author>
+        <guid>https://cclhm0057.netlify.app/en/docs/contentfortmats/</guid>
         <description>Markdown here</description>
       </item>
       
       <item>
         <title>Image Processing</title>
-        <link>http://example.org/en/docs/imageprocessing/</link>
+        <link>https://cclhm0057.netlify.app/en/docs/imageprocessing/</link>
         <pubDate>Tue, 28 Jan 2020 00:38:48 +0900</pubDate>
-        
-        <guid>http://example.org/en/docs/imageprocessing/</guid>
+        <author>profericbrasil@unilab.edu.br (Professor Eric Brasil)</author>
+        <guid>https://cclhm0057.netlify.app/en/docs/imageprocessing/</guid>
         <description>Markdown here</description>
       </item>
       
       <item>
         <title>Shortcodes</title>
-        <link>http://example.org/en/docs/contentmanagement/shortcodes/</link>
+        <link>https://cclhm0057.netlify.app/en/docs/contentmanagement/shortcodes/</link>
         <pubDate>Tue, 28 Jan 2020 00:36:19 +0900</pubDate>
-        
-        <guid>http://example.org/en/docs/contentmanagement/shortcodes/</guid>
+        <author>profericbrasil@unilab.edu.br (Professor Eric Brasil)</author>
+        <guid>https://cclhm0057.netlify.app/en/docs/contentmanagement/shortcodes/</guid>
         <description>Markdown here</description>
       </item>
       
       <item>
         <title>Frontmatter</title>
-        <link>http://example.org/en/docs/contentmanagement/frontmatter/</link>
+        <link>https://cclhm0057.netlify.app/en/docs/contentmanagement/frontmatter/</link>
         <pubDate>Tue, 28 Jan 2020 00:36:14 +0900</pubDate>
-        
-        <guid>http://example.org/en/docs/contentmanagement/frontmatter/</guid>
+        <author>profericbrasil@unilab.edu.br (Professor Eric Brasil)</author>
+        <guid>https://cclhm0057.netlify.app/en/docs/contentmanagement/frontmatter/</guid>
         <description>Markdown here</description>
       </item>
       
       <item>
         <title>Markdown Syntax Guide</title>
-        <link>http://example.org/en/blog/markdown-syntax/</link>
+        <link>https://cclhm0057.netlify.app/en/blog/markdown-syntax/</link>
         <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-        
-        <guid>http://example.org/en/blog/markdown-syntax/</guid>
+        <author>profericbrasil@unilab.edu.br (Professor Eric Brasil)</author>
+        <guid>https://cclhm0057.netlify.app/en/blog/markdown-syntax/</guid>
         <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de&lt;br /&gt;
 pectora summo. Redit teque digerit hominumque toris verebor lumina non cervice&lt;br /&gt;
 subde tollit usus habet Arctonque, furores quas nec ferunt. Quoque montibus nunc&lt;br /&gt;
@@ -219,19 +221,19 @@ caluere tempus&lt;/p&gt;</description>
       
       <item>
         <title>Section</title>
-        <link>http://example.org/en/docs/contentmanagement/sections/</link>
+        <link>https://cclhm0057.netlify.app/en/docs/contentmanagement/sections/</link>
         <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-        
-        <guid>http://example.org/en/docs/contentmanagement/sections/</guid>
+        <author>profericbrasil@unilab.edu.br (Professor Eric Brasil)</author>
+        <guid>https://cclhm0057.netlify.app/en/docs/contentmanagement/sections/</guid>
         <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
       </item>
       
       <item>
         <title>Rich Content</title>
-        <link>http://example.org/en/blog/rich-content/</link>
+        <link>https://cclhm0057.netlify.app/en/blog/rich-content/</link>
         <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-        
-        <guid>http://example.org/en/blog/rich-content/</guid>
+        <author>profericbrasil@unilab.edu.br (Professor Eric Brasil)</author>
+        <guid>https://cclhm0057.netlify.app/en/blog/rich-content/</guid>
         <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de&lt;br /&gt;
 pectora summo. Redit teque digerit hominumque toris verebor lumina non cervice&lt;br /&gt;
 subde tollit usus habet Arctonque, furores quas nec ferunt. Quoque montibus nunc&lt;br /&gt;
@@ -240,10 +242,10 @@ caluere tempus&lt;/p&gt;</description>
       
       <item>
         <title>Placeholder Text</title>
-        <link>http://example.org/en/blog/placeholder-text/</link>
+        <link>https://cclhm0057.netlify.app/en/blog/placeholder-text/</link>
         <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
-        
-        <guid>http://example.org/en/blog/placeholder-text/</guid>
+        <author>profericbrasil@unilab.edu.br (Professor Eric Brasil)</author>
+        <guid>https://cclhm0057.netlify.app/en/blog/placeholder-text/</guid>
         <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de&lt;br /&gt;
 pectora summo. Redit teque digerit hominumque toris verebor lumina non cervice&lt;br /&gt;
 subde tollit usus habet Arctonque, furores quas nec ferunt. Quoque montibus nunc&lt;br /&gt;
@@ -252,10 +254,10 @@ caluere tempus&lt;/p&gt;</description>
       
       <item>
         <title>Emoji Support</title>
-        <link>http://example.org/en/blog/emoji-support/</link>
+        <link>https://cclhm0057.netlify.app/en/blog/emoji-support/</link>
         <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-        
-        <guid>http://example.org/en/blog/emoji-support/</guid>
+        <author>profericbrasil@unilab.edu.br (Professor Eric Brasil)</author>
+        <guid>https://cclhm0057.netlify.app/en/blog/emoji-support/</guid>
         <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de&lt;br /&gt;
 pectora summo. Redit teque digerit hominumque toris verebor lumina non cervice&lt;br /&gt;
 subde tollit usus habet Arctonque, furores quas nec ferunt. Quoque montibus nunc&lt;br /&gt;

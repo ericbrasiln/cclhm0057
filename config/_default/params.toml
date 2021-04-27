@@ -27,7 +27,14 @@ paginateWindow = 1
 taxoPaginate = 13
 taxoGroupByDate = "2006" # "2006-01": group by month, "2006": group by year
 
-github = "https://github.com/zzossig/hugo-theme-zdoc"
+github = "https://github.com/ericbrasiln/cclhm0057"
+
+#whoami
+enableWhoami = true
+myname = "Professor Eric Brasil"
+email = "profericbrasil@unilab.edu.br"
+whoami = "Professor Adjunto"
+biImageUrl = "https://github.com/ericbrasiln/ericbrasiln.github.io/assets/img/perfil01.jpg"
 
 # comment
 enableComment = false

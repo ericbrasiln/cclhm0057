@@ -2,24 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>plot on CCLHM0057</title>
-    <link>http://example.org/en/tags/plot/</link>
+    <link>https://cclhm0057.netlify.app/en/tags/plot/</link>
     <description>Recent content in plot on CCLHM0057</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>&amp;copy;{year}, Eric Brasil, Todos os direitos reservados</copyright>
+    <managingEditor>profericbrasil@unilab.edu.br (Professor Eric Brasil)</managingEditor>
+    <webMaster>profericbrasil@unilab.edu.br (Professor Eric Brasil)</webMaster>
+    <copyright>Conteúdo original criado por Eric Brasil sob licença &lt;a rel=&#39;license&#39; href=&#39;http://creativecommons.org/licenses/by-nc/4.0/&#39;&gt;Creative Commons Attribution-NonCommercial 4.0 International License&lt;/a&gt;&lt;br&gt;&lt;a rel=&#39;license&#39; href=&#39;http://creativecommons.org/licenses/by-nc/4.0/&#39;&gt;&lt;img alt=&#39;Creative Commons License logo&#39; style=&#39;border-width:0&#39; src=&#39;https://i.creativecommons.org/l/by-nc/4.0/88x31.png&#39; /&gt;&lt;/a&gt;</copyright>
     <lastBuildDate>Tue, 01 Dec 2020 21:13:14 -0500</lastBuildDate>
     
-        <atom:link href="http://example.org/en/tags/plot/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://cclhm0057.netlify.app/en/tags/plot/index.xml" rel="self" type="application/rss+xml" />
     
     
     
       
       <item>
         <title>Hello R Markdown</title>
-        <link>http://example.org/en/blog/2020-12-01-r-rmarkdown/</link>
+        <link>https://cclhm0057.netlify.app/en/blog/2020-12-01-r-rmarkdown/</link>
         <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
-        
-        <guid>http://example.org/en/blog/2020-12-01-r-rmarkdown/</guid>
+        <author>profericbrasil@unilab.edu.br (Professor Eric Brasil)</author>
+        <guid>https://cclhm0057.netlify.app/en/blog/2020-12-01-r-rmarkdown/</guid>
         <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
 You can embed an R code chunk like this:
 summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.</description>

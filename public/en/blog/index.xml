@@ -2,24 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on CCLHM0057</title>
-    <link>http://example.org/en/blog/</link>
+    <link>https://cclhm0057.netlify.app/en/blog/</link>
     <description>Recent content in Blog on CCLHM0057</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>&amp;copy;{year}, Eric Brasil, Todos os direitos reservados</copyright>
+    <managingEditor>profericbrasil@unilab.edu.br (Professor Eric Brasil)</managingEditor>
+    <webMaster>profericbrasil@unilab.edu.br (Professor Eric Brasil)</webMaster>
+    <copyright>Conteúdo original criado por Eric Brasil sob licença &lt;a rel=&#39;license&#39; href=&#39;http://creativecommons.org/licenses/by-nc/4.0/&#39;&gt;Creative Commons Attribution-NonCommercial 4.0 International License&lt;/a&gt;&lt;br&gt;&lt;a rel=&#39;license&#39; href=&#39;http://creativecommons.org/licenses/by-nc/4.0/&#39;&gt;&lt;img alt=&#39;Creative Commons License logo&#39; style=&#39;border-width:0&#39; src=&#39;https://i.creativecommons.org/l/by-nc/4.0/88x31.png&#39; /&gt;&lt;/a&gt;</copyright>
     <lastBuildDate>Tue, 01 Dec 2020 21:13:14 -0500</lastBuildDate>
     
-        <atom:link href="http://example.org/en/blog/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://cclhm0057.netlify.app/en/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     
       
       <item>
         <title>Hello R Markdown</title>
-        <link>http://example.org/en/blog/2020-12-01-r-rmarkdown/</link>
+        <link>https://cclhm0057.netlify.app/en/blog/2020-12-01-r-rmarkdown/</link>
         <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
-        
-        <guid>http://example.org/en/blog/2020-12-01-r-rmarkdown/</guid>
+        <author>profericbrasil@unilab.edu.br (Professor Eric Brasil)</author>
+        <guid>https://cclhm0057.netlify.app/en/blog/2020-12-01-r-rmarkdown/</guid>
         <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
 You can embed an R code chunk like this:
 summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.</description>
@@ -27,10 +29,10 @@ summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 2
       
       <item>
         <title>Markdown Syntax Guide</title>
-        <link>http://example.org/en/blog/markdown-syntax/</link>
+        <link>https://cclhm0057.netlify.app/en/blog/markdown-syntax/</link>
         <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-        
-        <guid>http://example.org/en/blog/markdown-syntax/</guid>
+        <author>profericbrasil@unilab.edu.br (Professor Eric Brasil)</author>
+        <guid>https://cclhm0057.netlify.app/en/blog/markdown-syntax/</guid>
         <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de&lt;br /&gt;
 pectora summo. Redit teque digerit hominumque toris verebor lumina non cervice&lt;br /&gt;
 subde tollit usus habet Arctonque, furores quas nec ferunt. Quoque montibus nunc&lt;br /&gt;
@@ -39,10 +41,10 @@ caluere tempus&lt;/p&gt;</description>
       
       <item>
         <title>Rich Content</title>
-        <link>http://example.org/en/blog/rich-content/</link>
+        <link>https://cclhm0057.netlify.app/en/blog/rich-content/</link>
         <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-        
-        <guid>http://example.org/en/blog/rich-content/</guid>
+        <author>profericbrasil@unilab.edu.br (Professor Eric Brasil)</author>
+        <guid>https://cclhm0057.netlify.app/en/blog/rich-content/</guid>
         <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de&lt;br /&gt;
 pectora summo. Redit teque digerit hominumque toris verebor lumina non cervice&lt;br /&gt;
 subde tollit usus habet Arctonque, furores quas nec ferunt. Quoque montibus nunc&lt;br /&gt;
@@ -51,10 +53,10 @@ caluere tempus&lt;/p&gt;</description>
       
       <item>
         <title>Placeholder Text</title>
-        <link>http://example.org/en/blog/placeholder-text/</link>
+        <link>https://cclhm0057.netlify.app/en/blog/placeholder-text/</link>
         <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
-        
-        <guid>http://example.org/en/blog/placeholder-text/</guid>
+        <author>profericbrasil@unilab.edu.br (Professor Eric Brasil)</author>
+        <guid>https://cclhm0057.netlify.app/en/blog/placeholder-text/</guid>
         <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de&lt;br /&gt;
 pectora summo. Redit teque digerit hominumque toris verebor lumina non cervice&lt;br /&gt;
 subde tollit usus habet Arctonque, furores quas nec ferunt. Quoque montibus nunc&lt;br /&gt;
@@ -63,10 +65,10 @@ caluere tempus&lt;/p&gt;</description>
       
       <item>
         <title>Emoji Support</title>
-        <link>http://example.org/en/blog/emoji-support/</link>
+        <link>https://cclhm0057.netlify.app/en/blog/emoji-support/</link>
         <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-        
-        <guid>http://example.org/en/blog/emoji-support/</guid>
+        <author>profericbrasil@unilab.edu.br (Professor Eric Brasil)</author>
+        <guid>https://cclhm0057.netlify.app/en/blog/emoji-support/</guid>
         <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de&lt;br /&gt;
 pectora summo. Redit teque digerit hominumque toris verebor lumina non cervice&lt;br /&gt;
 subde tollit usus habet Arctonque, furores quas nec ferunt. Quoque montibus nunc&lt;br /&gt;

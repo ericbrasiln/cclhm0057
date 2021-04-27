@@ -21,4 +21,4 @@ Nesse site vcs encontram todo o material do curso, as informações sobre cornog
 
 Nosso espaço para conversas, ajuda, tirar dúvidas, compartilhar angústias e apreensões, trocar gifs e dar suporte emocional uns aos outros será em um seridor Discord. Você receberá um convite por email para participar. **Não é obrigatório participar através do Discord.**
 
-Por favor, leia com atenção as próximas seções.
+Por favor, leiam com atenção as próximas seções.

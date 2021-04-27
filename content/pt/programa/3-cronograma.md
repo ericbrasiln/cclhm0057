@@ -1,9 +1,12 @@
 ---
-title: "3. Módulos"
+title: "3. Cronograma"
 date: 2021-03-31T23:12:26-03:00
-description: "A divisão dos temas"
+description: "A divisão dos dias, atividades e temas"
 draft: false
+weight: 3
 ---
+
+A divisão dos dias, atividades e temas
 
 ## Módulos
 

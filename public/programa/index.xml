@@ -2,24 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Programa on CCLHM0057</title>
-    <link>http://example.org/programa/</link>
+    <link>https://cclhm0057.netlify.app/programa/</link>
     <description>Recent content in Programa on CCLHM0057</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt</language>
-    <copyright>&amp;copy;{year}, Eric Brasil, Todos os direitos reservados</copyright>
+    <managingEditor>profericbrasil@unilab.edu.br (Professor Eric Brasil)</managingEditor>
+    <webMaster>profericbrasil@unilab.edu.br (Professor Eric Brasil)</webMaster>
+    <copyright>Conteúdo original criado por Eric Brasil sob licença &lt;a rel=&#39;license&#39; href=&#39;http://creativecommons.org/licenses/by-nc/4.0/&#39;&gt;Creative Commons Attribution-NonCommercial 4.0 International License&lt;/a&gt;&lt;br&gt;&lt;a rel=&#39;license&#39; href=&#39;http://creativecommons.org/licenses/by-nc/4.0/&#39;&gt;&lt;img alt=&#39;Creative Commons License logo&#39; style=&#39;border-width:0&#39; src=&#39;https://i.creativecommons.org/l/by-nc/4.0/88x31.png&#39; /&gt;&lt;/a&gt;</copyright>
     <lastBuildDate>Wed, 31 Mar 2021 13:54:05 -0300</lastBuildDate>
     
-        <atom:link href="http://example.org/programa/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://cclhm0057.netlify.app/programa/index.xml" rel="self" type="application/rss+xml" />
     
     
     
       
       <item>
         <title>1. Ementa</title>
-        <link>http://example.org/programa/1-ementa/</link>
+        <link>https://cclhm0057.netlify.app/programa/1-ementa/</link>
         <pubDate>Wed, 31 Mar 2021 14:21:46 -0300</pubDate>
-        
-        <guid>http://example.org/programa/1-ementa/</guid>
+        <author>profericbrasil@unilab.edu.br (Professor Eric Brasil)</author>
+        <guid>https://cclhm0057.netlify.app/programa/1-ementa/</guid>
         <description>CCLHM0057 - História da América: colonização e resistência Professor Eric Brasil
 Instituto de Humanidades e Letras, campus dos Malês, Universidade da Integração Internacional da Lusofonia Afro-brasileira (UNILAB)
 Disciplina obrigatória do curso de licenciatura em História
@@ -31,22 +33,49 @@ Ementa Formações sociais e políticas nas Américas antes do século XV: repre
       
       <item>
         <title>2. Metodologia</title>
-        <link>http://example.org/programa/2-metodologia/</link>
+        <link>https://cclhm0057.netlify.app/programa/2-metodologia/</link>
         <pubDate>Wed, 31 Mar 2021 15:06:16 -0300</pubDate>
-        
-        <guid>http://example.org/programa/2-metodologia/</guid>
+        <author>profericbrasil@unilab.edu.br (Professor Eric Brasil)</author>
+        <guid>https://cclhm0057.netlify.app/programa/2-metodologia/</guid>
         <description>Metodologias de ensino: O curso será divido em 5 módulos. Cada módulo reúne um conjunto de atividades síncronas e assíncronas organizadas por semana.
 Atividades Síncronas (AS): Encontros virtuais (EV):   Os encontros virtuais terão entre uma hora e uma hora e trinta minutos de duração, entre 19h e 20h30min, às quartas-feiras definidas no cronograma;
   Os encontros virtuais serão focados em debate de textos da bibliografia do curso. Não serão aulas expositivas, portanto, a leitura dos textos indicados é fundamental para participar do encontro;</description>
       </item>
       
       <item>
-        <title>3. Módulos</title>
-        <link>http://example.org/programa/3-modulos/</link>
+        <title>3. Cronograma</title>
+        <link>https://cclhm0057.netlify.app/programa/3-cronograma/</link>
         <pubDate>Wed, 31 Mar 2021 23:12:26 -0300</pubDate>
-        
-        <guid>http://example.org/programa/3-modulos/</guid>
-        <description>Módulos  AMÉRICA, AMÉRICAS E O ENSINO DE HISTÓRIA. SOCIEDADES AUTÓTOCNES AMERICANAS ANTES DO SÉC. XVI. CONQUISTAS E RESISTÊNCIAS (XVI-XVII). FORMAÇÃO DA SOCIEDADE COLONIAL ESPANHOLA (XVI-XVIII). ESCRAVIDÃO AFRICANA NAS AMÉRICAS (XVI-XVIII).  </description>
+        <author>profericbrasil@unilab.edu.br (Professor Eric Brasil)</author>
+        <guid>https://cclhm0057.netlify.app/programa/3-cronograma/</guid>
+        <description>A divisão dos dias, atividades e temas
+Módulos  AMÉRICA, AMÉRICAS E O ENSINO DE HISTÓRIA. SOCIEDADES AUTÓTOCNES AMERICANAS ANTES DO SÉC. XVI. CONQUISTAS E RESISTÊNCIAS (XVI-XVII). FORMAÇÃO DA SOCIEDADE COLONIAL ESPANHOLA (XVI-XVIII). ESCRAVIDÃO AFRICANA NAS AMÉRICAS (XVI-XVIII).  </description>
+      </item>
+      
+      <item>
+        <title>4. Como usar esse site</title>
+        <link>https://cclhm0057.netlify.app/programa/4-site/</link>
+        <pubDate>Tue, 27 Apr 2021 00:00:00 +0000</pubDate>
+        <author>profericbrasil@unilab.edu.br (Professor Eric Brasil)</author>
+        <guid>https://cclhm0057.netlify.app/programa/4-site/</guid>
+        <description>Explicações e dicas técnicas e acadêmicas sobre os usos e limites desse site.
+Construção do site Esse site é uma página estática construído com Hugo e o pacote blogdown em R.
+O repositório, com todo o código e os materiais usados, está disponível no Github e utilizei o Netlify para fazer a publicação da página on-line.
+Usando os recursos AAAAAAAAAAAAAAAAA</description>
+      </item>
+      
+      <item>
+        <title>4. Guia de boas práticas</title>
+        <link>https://cclhm0057.netlify.app/programa/5-praticas/</link>
+        <pubDate>Tue, 27 Apr 2021 00:00:00 +0000</pubDate>
+        <author>profericbrasil@unilab.edu.br (Professor Eric Brasil)</author>
+        <guid>https://cclhm0057.netlify.app/programa/5-praticas/</guid>
+        <description>Conjunto de sugestões e indicações de boas práticas para o bom funcionamento do curso ao longo do semestre 2020.2.
+Sobre os encontros virtuais Explicar&amp;hellip;.
+Leituras Obrigatórias&amp;hellip;
+Sobre a realização das atividades assíncronas Explicar
+Sobre a correção das atividades escritas Referências Plágio Contato Humano Expicar
+Discord </description>
       </item>
       
     
