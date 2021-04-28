@@ -7,11 +7,44 @@ weight: 1
 ---
 
 ## Módulo 1
-América, Américas
+América, Américas e o Ensino de História
 
 ### Semana 1 - 17/05/2021 a 21/05/2021
 
-inserir...
+#### Atividades Assíncronas (AA)
+
+##### Tarefa 01
+
+**Tema**: Formulário de apresentação
+
+**Data:** 17/05/2021 – 24/05/2021
+
+**Tipo**: Assíncrona
+
+**CH**: 2 horas
+
+**Plataforma**: `Google Formulários`
+
+***[LINK PARA O FORMULÁRIO](){:target="_blank"}.***
+
+#### Atividades Síncronas (AS)
+
+##### Encontro virtual (EV) 01
+
+**Data:** 17/05/2021
+
+**Tema:** _Apresentação e reflexões sobre a disciplina_
+
+**Tipo**: Síncrona
+
+**CH**: 2 horas
+
+| Objetivos           | Conteúdos         |
+|:--------------------|:------------------|
+| Discutir práticas de ensino relacionadas à história da América | Apresentação de tópicos da educação básica |
+|Debater conceitos referentes à disciplina: índio/indígena; América Latina | Conceituação, histórico e sentidos.
+
+***
 
 ### Semana 2 - 24/05/2021 a 28/05/2021
 
