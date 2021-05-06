@@ -13,9 +13,11 @@ Legenda:
 - AA = Atividade Assíncrona
 - AS = Atividade Síncrona
 
-## Semana 1 (3h)
+## Semana 1
 
-Período: 17 a 21/05/2021
+### Período: 17/05/2021 - 21/05/2021
+
+CH = 3h
 
 | Módulo        | 1 - América, Américas e o ensino de história |
 | ------------- | -------------------------------------------- |
@@ -26,9 +28,11 @@ Período: 17 a 21/05/2021
 
 **Plantão de atendimento**: Segunda-feira, 15h-16h no *Discord*
 
-## Semana 2 (7h)
+## Semana 2
 
-Período: 24 a 28/05/2021
+### Período: 24/05/2021 - 28/05/2021
+
+CH = 7h
 
 | Módulo        | 1 - América, Américas e o ensino de história | 1 - América, Américas e o ensino de história |
 | ------------- | -------------------------------------------- | -------------------------------------------- |
@@ -39,9 +43,12 @@ Período: 24 a 28/05/2021
 
 **Plantão de atendimento**: Segunda-feira, 15h-16h no *Discord*
 
-## Semana 3 (7h)
+## Semana 3
 
-Período: 31/05/2021a 04/06/2021
+### Período: 31/05/2021 - 04/06/2021
+
+CH = 7h
+
 
 | Módulo        | 2 - Sociedades autóctones americanas antes do séc. XVI       | 2 - Sociedades autóctones americanas antes do séc. XVI |
 | ------------- | ------------------------------------------------------------ | ------------------------------------------------------ |
@@ -52,9 +59,11 @@ Período: 31/05/2021a 04/06/2021
 
 **Plantão de atendimento**: Segunda-feira, 15h-16h no *Discord*
 
-## Semana 4 (6h)
+## Semana 4
 
-Período: 07/06/2021 - 11/06/2021
+### Período: 07/06/2021 - 11/06/2021
+
+CH = 6h
 
 | Módulo        | 3 - Conquistas e Resistências (XVI-XVII)                     | 3 - Conquistas e Resistências (XVI-XVII) |
 | ------------- | ------------------------------------------------------------ | ---------------------------------------- |
@@ -65,9 +74,11 @@ Período: 07/06/2021 - 11/06/2021
 
 **Plantão de atendimento**: Segunda-feira, 15h-16h no *Discord*
 
-## Semana 5 (7h)
+## Semana 5
 
-Período: 14/06/2021 - 18/06/2021
+### Período: 14/06/2021 - 18/06/2021
+
+CH = 7h
 
 | Módulo        | 3 - Conquistas e Resistências (XVI-XVII)          | 3 - Conquistas e Resistências (XVI-XVII) |
 | ------------- | ------------------------------------------------- | ---------------------------------------- |
@@ -78,9 +89,11 @@ Período: 14/06/2021 - 18/06/2021
 
 **Plantão de atendimento**: Segunda-feira, 15h-16h no *Discord*
 
-## Semana 6 (3h)
+## Semana 6
 
-Período: 21/06/2021 - 25/06/2021
+### Período: 21/06/2021 - 25/06/2021
+
+CH = 3h
 
 | Módulo        | 3 - Conquistas e Resistências (XVI-XVII)                     |
 | ------------- | ------------------------------------------------------------ |
@@ -91,9 +104,11 @@ Período: 21/06/2021 - 25/06/2021
 
 **Plantão de atendimento**: Segunda-feira, 15h-16h no *Discord*
 
-## Semana 7 (5h)
+## Semana 7
 
-Período: 28/06/2021 - 01/07/2021
+### Período: 28/06/2021 - 01/07/2021
+
+CH = 5h
 
 | Módulo        | 4 - Formação da sociedade colonials espanhola (XVI-XVIII)    | 4 - Formação da sociedade colonials espanhola (XVI-XVIII) |
 | ------------- | ------------------------------------------------------------ | --------------------------------------------------------- |
@@ -104,9 +119,11 @@ Período: 28/06/2021 - 01/07/2021
 
 **Plantão de atendimento**: Segunda-feira, 15h-16h no *Discord*
 
-## Semana 8 (7h)
+## Semana 8
 
-Período: 05/07/2021 - 09/07/2021
+### Período: 05/07/2021 - 09/07/2021
+
+CH = 7h
 
 | Módulo        | 5 - Escravidão Africana nas Américas (séc. XVI-XVIII)      | 5 - Escravidão Africana nas Américas (séc. XVI-XVIII) |
 | ------------- | ---------------------------------------------------------- | ----------------------------------------------------- |
@@ -117,9 +134,11 @@ Período: 05/07/2021 - 09/07/2021
 
 **Plantão de atendimento**: Segunda-feira, 15h-16h no *Discord*
 
-## Semana 9 (3h)
+## Semana 9
 
-Período: 12/07/2021 - 16/07/2021
+### Período: 12/07/2021 - 16/07/2021
+
+CH = 3h
 
 | Módulo        | 5 - Escravidão Africana nas Américas (séc. XVI-XVIII)  | 5 - Escravidão Africana nas Américas (séc. XVI-XVIII) |
 | ------------- | ------------------------------------------------------ | ----------------------------------------------------- |
@@ -130,9 +149,11 @@ Período: 12/07/2021 - 16/07/2021
 
 **Plantão de atendimento**: Segunda-feira, 15h-16h no *Discord*
 
-## Semana 10 (7h)
+## Semana 10
 
-Período: 19/07/2021 - 23/07/2021
+### Período: 19/07/2021 - 23/07/2021
+
+CH = 7h
 
 | Módulo        | 5 - Escravidão Africana nas Américas (séc. XVI-XVIII) | 5 - Escravidão Africana nas Américas (séc. XVI-XVIII) |
 | ------------- | ----------------------------------------------------- | ----------------------------------------------------- |
@@ -143,9 +164,11 @@ Período: 19/07/2021 - 23/07/2021
 
 **Plantão de atendimento**: Segunda-feira, 15h-16h no *Discord*
 
-## Semana 11 (5h)
+## Semana 11
 
-Período: 26/07/2021 - 30/07/2021
+### Período: 26/07/2021 - 30/07/2021
+
+CH = 5h
 
 | Módulo        | 5 - Escravidão Africana nas Américas (séc. XVI-XVIII)        | 5 - Escravidão Africana nas Américas (séc. XVI-XVIII) |
 | ------------- | ------------------------------------------------------------ | ----------------------------------------------------- |
@@ -156,9 +179,11 @@ Período: 26/07/2021 - 30/07/2021
 
 **Plantão de atendimento**: Segunda-feira, 15h-16h no *Discord*
 
-## Semana 12 (10h)
+## Semana 12
 
-Período:  02/08/2021 - 06/08/2021
+### Período:  02/08/2021 - 06/08/2021
+
+CH = 10h
 
 | Módulo        | 5 - Escravidão Africana nas Américas (séc. XVI-XVIII) | 5 - Escravidão Africana nas Américas (séc. XVI-XVIII) |
 | ------------- | ----------------------------------------------------- | ----------------------------------------------------- |
@@ -169,9 +194,11 @@ Período:  02/08/2021 - 06/08/2021
 
 **Plantão de atendimento**: Segunda-feira, 15h-16h no *Discord*
 
-## Semana 13 (3h)
+## Semana 13
 
-Período:  09/08/2021 - 13/08/2021
+### Período:  09/08/2021 - 13/08/2021
+
+CH = 3h
 
 | Módulo        | 5 - Escravidão Africana nas Américas (séc. XVI-XVIII) | Encerramento                                            |
 | ------------- | ----------------------------------------------------- | ------------------------------------------------------- |
