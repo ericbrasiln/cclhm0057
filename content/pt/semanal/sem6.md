@@ -13,9 +13,7 @@ Legenda:
 - AT = Atividade Avaliativa
 {{< /boxmd >}}
 
-## Módulo
-
-3 - Conquistas e Resistências (XVI-XVII)
+## Módulo 3 - Conquistas e Resistências (XVI-XVII)
 
 ## Período
 
