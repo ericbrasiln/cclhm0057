@@ -12,7 +12,7 @@ Explicações e dicas técnicas e acadêmicas sobre os usos e limites desse site
 
 Esse site é uma página estática construída com o pacote `blogdown` no `RStudio` que utiliza [Hugo](https://gohugo.io/)  e o tema [zDoc](https://github.com/zzossig/hugo-theme-zzo).
 
-O repositório, com todo o código e os materiais usados, está disponível no Github e utilizei o [Netlify](https://www.netlify.com/) para fazer a publicação da página on-line.
+O repositório, com o código e todos os materiais usados, está disponível no Github e utilizei o [Netlify](https://www.netlify.com/) para fazer a publicação da página on-line.
 
 [Clique aqui](https://github.com/ericbrasiln/cclhm0057) para acessar o repositório no GitHub.
 
