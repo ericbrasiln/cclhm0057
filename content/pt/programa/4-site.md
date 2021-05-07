@@ -20,16 +20,19 @@ O repositório, com o código e todos os materiais usados, está disponível no 
 
 Sendo essa uma página estática, com poucas imagens e outros recursos pesados, seu carregamento exige pouca banda de internet e está configurada para ser funcional tanto em computadores quanto em celulares e tablets.
 
-Na versão para computador:
+Abaixo, alguns recursos do site na versão para computador:
 
-Tela inicial com botões para acessar o programa completo e outro para ver meus contatos.
+- Tela inicial com botões para acessar o programa completo e outro para ver meus contatos.
 
 {{< img src="/images/page1.png" position="center" >}}
+---
 
-No canto superior direito, há barra de busca, botão para alternar o tema entre claro e escuro, e botão para acessar o repositório no GitHub.
+- No canto superior direito, há barra de busca, botão para alternar o tema entre claro e escuro, e botão para acessar o repositório no GitHub.
 
 {{< img src="/images/page2.png" position="center" >}}
+---
 
-No canto superior esquerdo está localizado o menu principal:
+- No canto superior esquerdo está localizado o menu principal:
 
 {{< img src="/images/page3.png" position="center" >}}
+---
