@@ -13,9 +13,7 @@ Legenda:
 - AT = Atividade Avaliativa
 {{< /boxmd >}}
 
-## Módulo
-
-1 - América, Américas e o Ensino de História
+## Módulo 1 - América, Américas e o Ensino de História
 
 ## Período
 
@@ -31,7 +29,7 @@ Legenda:
 
 **Plataforma**: `Google Formulários`
 
-***[LINK PARA O FORMULÁRIO - em breve](){:target="_blank"}.***
+***[LINK PARA O FORMULÁRIO - em breve]().***
 
 ## Leitura 1 (AA)
 
