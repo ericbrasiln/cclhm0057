@@ -13,9 +13,7 @@ Legenda:
 - AT = Atividade Avaliativa
 {{< /boxmd >}}
 
-## Módulo
-
-2 -Sociedades autóctones americanas antes do séc. XVI
+## Módulo 2 -Sociedades autóctones americanas antes do séc. XVI
 
 ## Período
 
