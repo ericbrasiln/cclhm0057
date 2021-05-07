@@ -1,6 +1,6 @@
 ---
 title: "1. Ementa"
-description: "O que vc vai aprenser nesse curso"
+description: "O que vcs vão aprender nesse curso"
 date: 2021-03-31T14:21:46-03:00
 draft: false
 weight: 1
@@ -22,7 +22,7 @@ Professor [_Eric Brasil_](https://ericbrasiln.github.io)
 |:--------------------|:------------------|:---------|
 | 60h | 15h | 75h |
 
-**Horário das aulas síncronas** (conforme [cronograma](cronograma)): quintas, 19h às 21h
+**Horário das aulas síncronas** (conforme [cronograma](cronograma)): segundas-feiras, 19h às 21h
 
 ## Ementa
 

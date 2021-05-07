@@ -27,7 +27,7 @@ Instituto de Humanidades e Letras, campus dos Malês, Universidade da Integraç�
 Disciplina obrigatória do curso de licenciatura em História
 Semestre: 2020.2
 Carga Horária:
-   Teórica Prática como compontente curricular Total     60h 15h 75h    Horário das aulas síncronas (conforme cronograma): quintas, 19h às 21h
+   Teórica Prática como compontente curricular Total     60h 15h 75h    Horário das aulas síncronas (conforme cronograma): segundas-feiras, 19h às 21h
 Ementa Formações sociais e políticas nas Américas antes do século XV: representações, história e historiografia.</description>
       </item>
       
@@ -37,8 +37,8 @@ Ementa Formações sociais e políticas nas Américas antes do século XV: repre
         <pubDate>Wed, 31 Mar 2021 15:06:16 -0300</pubDate>
         <author>profericbrasil@unilab.edu.br (Professor Eric Brasil)</author>
         <guid>https://cclhm0057.netlify.app/programa/2-metodologia/</guid>
-        <description>Metodologias de ensino: O curso será divido em 5 módulos. Cada módulo reúne um conjunto de atividades síncronas e assíncronas organizadas por semana.
-Atividades Síncronas (AS): Encontros virtuais (EV):   Os encontros virtuais terão entre uma hora e uma hora e trinta minutos de duração, entre 19h e 20h30min, às quartas-feiras definidas no cronograma;
+        <description>Metodologias de ensino: O curso está divido em 5 módulos. Cada módulo reúne um conjunto de atividades síncronas e assíncronas organizadas por semana.
+Atividades Síncronas (AS): Encontros virtuais:   Os encontros virtuais terão entre uma hora e uma hora e trinta minutos de duração, entre 19h e 20h30min, às segundas-feiras conforme no cronograma;
   Os encontros virtuais serão focados em debate de textos da bibliografia do curso. Não serão aulas expositivas, portanto, a leitura dos textos indicados é fundamental para participar do encontro;</description>
       </item>
       
@@ -48,8 +48,10 @@ Atividades Síncronas (AS): Encontros virtuais (EV):   Os encontros virtuais ter
         <pubDate>Wed, 31 Mar 2021 23:12:26 -0300</pubDate>
         <author>profericbrasil@unilab.edu.br (Professor Eric Brasil)</author>
         <guid>https://cclhm0057.netlify.app/programa/3-cronograma/</guid>
-        <description>A divisão dos dias, atividades e temas
-Módulos  AMÉRICA, AMÉRICAS E O ENSINO DE HISTÓRIA. SOCIEDADES AUTÓTOCNES AMERICANAS ANTES DO SÉC. XVI. CONQUISTAS E RESISTÊNCIAS (XVI-XVII). FORMAÇÃO DA SOCIEDADE COLONIAL ESPANHOLA (XVI-XVIII). ESCRAVIDÃO AFRICANA NAS AMÉRICAS (XVI-XVIII).  </description>
+        <description>A divisão dos dias, atividades e temas para vcs organizarem suas vidas.
+Legenda:
+ AA = Atividade Assíncrona AS = Atividade Síncrona  Semana 1 Período: 17/05/2021 - 21/05/2021 CH = 3h
+   Módulo 1 - América, Américas e o ensino de história     Tipo Tarefa 1 (AA)   Data 17/05/2021 a 21/05/2021   Carga Horária 2h   Tema Formulário de apresentação    Plantão de atendimento: Segunda-feira, 15h-16h no Discord</description>
       </item>
       
       <item>
@@ -59,9 +61,10 @@ Módulos  AMÉRICA, AMÉRICAS E O ENSINO DE HISTÓRIA. SOCIEDADES AUTÓTOCNES AM
         <author>profericbrasil@unilab.edu.br (Professor Eric Brasil)</author>
         <guid>https://cclhm0057.netlify.app/programa/4-site/</guid>
         <description>Explicações e dicas técnicas e acadêmicas sobre os usos e limites desse site.
-Construção do site Esse site é uma página estática construído com Hugo e o pacote blogdown em R.
+Construção do site Esse site é uma página estática construída com o pacote blogdown no RStudio que utiliza Hugo e o tema zDoc.
 O repositório, com todo o código e os materiais usados, está disponível no Github e utilizei o Netlify para fazer a publicação da página on-line.
-Usando os recursos AAAAAAAAAAAAAAAAA</description>
+Clique aqui para acessar o repositório no GitHub.
+Usando os recursos Sendo essa uma página estática, com poucas imagens e outros recursos pesados, seu carregamento exige pouca banda de internet e está configurada para ser funcional tanto em computadores quanto em celulares e tablets.</description>
       </item>
       
       <item>
@@ -71,11 +74,9 @@ Usando os recursos AAAAAAAAAAAAAAAAA</description>
         <author>profericbrasil@unilab.edu.br (Professor Eric Brasil)</author>
         <guid>https://cclhm0057.netlify.app/programa/5-praticas/</guid>
         <description>Conjunto de sugestões e indicações de boas práticas para o bom funcionamento do curso ao longo do semestre 2020.2.
-Sobre os encontros virtuais Explicar&amp;hellip;.
-Leituras Obrigatórias&amp;hellip;
-Sobre a realização das atividades assíncronas Explicar
-Sobre a correção das atividades escritas Referências Plágio Contato Humano Expicar
-Discord </description>
+Sobre os encontros virtuais Os encontros virtuais serão apenas para debates de textos, portanto, a leitura da bibliografia é obrigatória para participação.
+Esses encontros síncronos acontecerão via Google Meet e os links serão enviados com antecedência.
+Não haverá permissão de ingresso na sala virtual após o início do encontro. Os/as discentes devem aceitar o convite para participar através do link antes do início da aula.</description>
       </item>
       
     
