@@ -19,12 +19,12 @@ Legenda:
 
 CH = 3h
 
-| Módulo        | 1 - América, Américas e o ensino de história |
-| ------------- | -------------------------------------------- |
-| Tipo          | Tarefa 1 (AA)                                |
-| Data          | 17/05/2021 a 21/05/2021                      |
-| Carga Horária | 2h                                           |
-| Tema          | Formulário de apresentação                   |
+| Módulo        | 1 - América, Américas e o ensino de história | 1 - América, Américas e o ensino de história |
+| ------------- | -------------------------------------------- |-------------------------------------------- |
+| Tipo          | Tarefa 1 (AA)                                |Leitura 1 (AA) |
+| Data          | 17/05/2021 a 21/05/2021                      |17/05/2021 a 21/05/2021 |
+| Carga Horária | 1h                                           | 2h |
+| Tema          | Formulário de apresentação                   | [Ver link]() |
 
 **Plantão de atendimento**: Segunda-feira, 15h-16h no *Discord*
 
@@ -36,7 +36,7 @@ CH = 7h
 
 | Módulo        | 1 - América, Américas e o ensino de história | 1 - América, Américas e o ensino de história |
 | ------------- | -------------------------------------------- | -------------------------------------------- |
-| Tipo          | Leitura 1 (AA)                               | Encontro Virtual 1 (AS)                      |
+| Tipo          | Leitura 2 (AA)                               | Encontro Virtual 1 (AS)                      |
 | Data          | 24 a 28/05/2021                              | 24/05/2021                                   |
 | Carga Horária | 4h                                           | 2h                                           |
 | Tema          | [Ver link]()                                 | Apresentação e reflexões sobre a disciplina  |
@@ -52,7 +52,7 @@ CH = 7h
 
 | Módulo        | 2 - Sociedades autóctones americanas antes do séc. XVI       | 2 - Sociedades autóctones americanas antes do séc. XVI |
 | ------------- | ------------------------------------------------------------ | ------------------------------------------------------ |
-| Tipo          | Vídeo-aula 1 (AA)                                            | Leitura 2 (AA)                                         |
+| Tipo          | Vídeo-aula 1 (AA)                                            | Leitura 3 (AA)                                         |
 | Data          | 31/05/2021a 04/06/2021                                       | 31/05/2021a 04/06/2021                                 |
 | Carga Horária | 1h                                                           | 4h                                                     |
 | Tema          | Sociedades autóctones americanas antes do século XVI [Link para a vídeo-aula]() | [Link]()                                               |
@@ -67,7 +67,7 @@ CH = 6h
 
 | Módulo        | 3 - Conquistas e Resistências (XVI-XVII)                     | 3 - Conquistas e Resistências (XVI-XVII) |
 | ------------- | ------------------------------------------------------------ | ---------------------------------------- |
-| Tipo          | Vídeo-aula 2 (AA)                                            | Leitura 3 (AA)                           |
+| Tipo          | Vídeo-aula 2 (AA)                                            | Leitura 4 (AA)                           |
 | Data          | 07/06/2021 - 11/06/2021                                      | 07/06/2021 - 21/06/2021                  |
 | Carga Horária | 1h                                                           | 4h                                       |
 | Tema          | Expansão europeia nos séculos XV e XVI. [Link para a vídeo-aula]() | [Link]()                                 |
@@ -95,12 +95,12 @@ CH = 7h
 
 CH = 3h
 
-| Módulo        | 3 - Conquistas e Resistências (XVI-XVII)                     |
-| ------------- | ------------------------------------------------------------ |
-| Tipo          | Encontro Virtual 3 (AS)                                      |
-| Data          | 21/06/2021                                                   |
-| Carga Horária | 2h                                                           |
-| Tema          | Debate de texto: Resistências, negociação, agência: história e historiografia (XVI-XVII) |
+| Módulo        | 3 - Conquistas e Resistências (XVI-XVII)                     | 3 - Conquistas e Resistências (XVI-XVII) |
+| ------------- | ------------------------------------------------------------ | ---------------------------------------- | 
+| Tipo          | Encontro Virtual 3 (AS)                                      | Leitura 5 (AA) |
+| Data          | 21/06/2021                                                   | 21/06/2021 - 25/06/2021 |
+| Carga Horária | 2h                                                           | 4h |
+| Tema          | Debate de texto: Resistências, negociação, agência: história e historiografia (XVI-XVII) | [Link]()
 
 **Plantão de atendimento**: Segunda-feira, 15h-16h no *Discord*
 
@@ -112,7 +112,7 @@ CH = 5h
 
 | Módulo        | 4 - Formação da sociedade colonials espanhola (XVI-XVIII)    | 4 - Formação da sociedade colonials espanhola (XVI-XVIII) |
 | ------------- | ------------------------------------------------------------ | --------------------------------------------------------- |
-| Tipo          | Vídeo-aula 3 (AA)                                            | Leitura 4 (AA)                                            |
+| Tipo          | Vídeo-aula 3 (AA)                                            | Leitura 6 (AA)                                            |
 | Data          | 28/06/2021 - 01/07/2021                                      | 28/06/2021 - 01/07/2021                                   |
 | Carga Horária | 1h                                                           | 3h                                                        |
 | Tema          | Formação da sociedade colonial espanhola (XVI-XVIII) [Link para a vídeo-aula]() | [Link]()                                                  |
@@ -127,7 +127,7 @@ CH = 7h
 
 | Módulo        | 5 - Escravidão Africana nas Américas (séc. XVI-XVIII)      | 5 - Escravidão Africana nas Américas (séc. XVI-XVIII) |
 | ------------- | ---------------------------------------------------------- | ----------------------------------------------------- |
-| Tipo          | Encontro Virtual 4 (AS)                                    | Leitura 5 (AA)                                        |
+| Tipo          | Encontro Virtual 4 (AS)                                    | Leitura 7 (AA)                                        |
 | Data          | 05/07/2021                                                 | 05/07/2021 - 09/07/2021                               |
 | Carga Horária | 2h                                                         | 4h                                                    |
 | Tema          | A escravidão no “Novo Mundo”: raça, capitalismo e trabalho | [Link]()                                              |
