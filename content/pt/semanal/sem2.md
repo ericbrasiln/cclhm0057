@@ -13,9 +13,7 @@ Legenda:
 - AT = Atividade Avaliativa
 {{< /boxmd >}}
 
-## Módulo
-
-1 - América, Américas e o Ensino de História
+## Módulo 1 - América, Américas e o Ensino de História
 
 ## Período
 
