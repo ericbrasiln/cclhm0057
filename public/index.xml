@@ -17,116 +17,33 @@
     
       
       <item>
-        <title>May 2019</title>
-        <link>https://cclhm0057.netlify.app/updates/2019_may/</link>
-        <pubDate>Tue, 28 Jan 2020 00:10:51 +0900</pubDate>
+        <title>Boas-vindas e contato inicial</title>
+        <link>https://cclhm0057.netlify.app/blog/noticia1/</link>
+        <pubDate>Fri, 07 May 2021 00:00:00 +0000</pubDate>
         <author>profericbrasil@unilab.edu.br (Professor Eric Brasil)</author>
-        <guid>https://cclhm0057.netlify.app/updates/2019_may/</guid>
-        <description>Markdown here</description>
+        <guid>https://cclhm0057.netlify.app/blog/noticia1/</guid>
+        <description>Boas-vindas e contato inicial Gostaria de dar as boas-vindas a todos e todas!
+Inicamos mais um semestre remoto em meio à pandemia de COVID-19 que assola o mundo e que tem arrasado o Brasil de forma não cruel. Portanto, é fundamental lembrarmos de nos cuidar e cuidar de nossos colegas, física e mentalmente.
+Diante disso, montei o curso CCLHM0057 para o semestre 2020.2 buscando levar esse contexto sempre em consideração.</description>
       </item>
       
       <item>
-        <title>Basic Usage</title>
-        <link>https://cclhm0057.netlify.app/docs/gettingstarted/basicusage/</link>
-        <pubDate>Tue, 28 Jan 2020 00:34:51 +0900</pubDate>
+        <title>Semana 1</title>
+        <link>https://cclhm0057.netlify.app/semanal/sem1/</link>
+        <pubDate>Fri, 07 May 2021 00:00:00 +0000</pubDate>
         <author>profericbrasil@unilab.edu.br (Professor Eric Brasil)</author>
-        <guid>https://cclhm0057.netlify.app/docs/gettingstarted/basicusage/</guid>
-        <description>Markdown here</description>
-      </item>
-      
-      <item>
-        <title>April 2019</title>
-        <link>https://cclhm0057.netlify.app/updates/2019_april/</link>
-        <pubDate>Tue, 28 Jan 2020 00:10:48 +0900</pubDate>
-        <author>profericbrasil@unilab.edu.br (Professor Eric Brasil)</author>
-        <guid>https://cclhm0057.netlify.app/updates/2019_april/</guid>
-        <description>Markdown here</description>
-      </item>
-      
-      <item>
-        <title>Configuration</title>
-        <link>https://cclhm0057.netlify.app/docs/gettingstarted/configuration/</link>
-        <pubDate>Tue, 28 Jan 2020 00:34:56 +0900</pubDate>
-        <author>profericbrasil@unilab.edu.br (Professor Eric Brasil)</author>
-        <guid>https://cclhm0057.netlify.app/docs/gettingstarted/configuration/</guid>
-        <description>Markdown here</description>
-      </item>
-      
-      <item>
-        <title>March 2019</title>
-        <link>https://cclhm0057.netlify.app/updates/2019_march/</link>
-        <pubDate>Tue, 28 Jan 2020 00:10:42 +0900</pubDate>
-        <author>profericbrasil@unilab.edu.br (Professor Eric Brasil)</author>
-        <guid>https://cclhm0057.netlify.app/updates/2019_march/</guid>
-        <description>Markdown here</description>
-      </item>
-      
-      <item>
-        <title>Installation</title>
-        <link>https://cclhm0057.netlify.app/docs/gettingstarted/installation/</link>
-        <pubDate>Tue, 28 Jan 2020 00:34:13 +0900</pubDate>
-        <author>profericbrasil@unilab.edu.br (Professor Eric Brasil)</author>
-        <guid>https://cclhm0057.netlify.app/docs/gettingstarted/installation/</guid>
-        <description>Markdown here</description>
-      </item>
-      
-      <item>
-        <title>February 2019</title>
-        <link>https://cclhm0057.netlify.app/updates/2019_february/</link>
-        <pubDate>Tue, 28 Jan 2020 00:10:37 +0900</pubDate>
-        <author>profericbrasil@unilab.edu.br (Professor Eric Brasil)</author>
-        <guid>https://cclhm0057.netlify.app/updates/2019_february/</guid>
-        <description>Markdown here</description>
-      </item>
-      
-      <item>
-        <title>Quick Start</title>
-        <link>https://cclhm0057.netlify.app/docs/gettingstarted/quickstart/</link>
-        <pubDate>Tue, 28 Jan 2020 00:34:41 +0900</pubDate>
-        <author>profericbrasil@unilab.edu.br (Professor Eric Brasil)</author>
-        <guid>https://cclhm0057.netlify.app/docs/gettingstarted/quickstart/</guid>
-        <description>Markdown here</description>
-      </item>
-      
-      <item>
-        <title>January 2019</title>
-        <link>https://cclhm0057.netlify.app/updates/2019_january/</link>
-        <pubDate>Tue, 28 Jan 2020 00:10:09 +0900</pubDate>
-        <author>profericbrasil@unilab.edu.br (Professor Eric Brasil)</author>
-        <guid>https://cclhm0057.netlify.app/updates/2019_january/</guid>
-        <description>Markdown here</description>
-      </item>
-      
-      <item>
-        <title>Cronograma</title>
-        <link>https://cclhm0057.netlify.app/cronograma/organiza%C3%A7%C3%A3o/</link>
-        <pubDate>Thu, 06 May 2021 00:00:00 +0000</pubDate>
-        <author>profericbrasil@unilab.edu.br (Professor Eric Brasil)</author>
-        <guid>https://cclhm0057.netlify.app/cronograma/organiza%C3%A7%C3%A3o/</guid>
-        <description>Cronograma Legenda:
- AA = Atividade Assíncrona AS = Atividade Síncrona  Semana 1 (3h) Período: 17 a 21/05/2021
-   Módulo 1 - América, Américas e o ensino de história     Tipo Tarefa 1 (AA)   Data 17/05/2021 a 21/05/2021   Carga Horária 2h   Tema Formulário de apresentação    Plantão de atendimento: Segunda-feira, 15h-16h no Discord
-Semana 2 (7h) Período: 24 a 28/05/2021</description>
-      </item>
-      
-      <item>
-        <title>Módulo 1</title>
-        <link>https://cclhm0057.netlify.app/semanal/mod1/</link>
-        <pubDate>Tue, 27 Apr 2021 00:00:00 +0000</pubDate>
-        <author>profericbrasil@unilab.edu.br (Professor Eric Brasil)</author>
-        <guid>https://cclhm0057.netlify.app/semanal/mod1/</guid>
-        <description>Módulo 1 América, Américas e o Ensino de História
-Semana 1 - 17/05/2021 a 21/05/2021 Atividades Assíncronas (AA) Tarefa 01 Tema: Formulário de apresentação
-Data: 17/05/2021 – 24/05/2021
-Tipo: Assíncrona
-CH: 2 horas
+        <guid>https://cclhm0057.netlify.app/semanal/sem1/</guid>
+        <description>Legenda:
+ AA = Atividade Assíncrona AS = Atividade Síncrona AT = Atividade Avaliativa   Módulo 1 - América, Américas e o Ensino de História Período 17/05/2021 - 21/05/2021
+Tarefa 01 (AA) Tema: Formulário de apresentação
+Data: 17/05/2021 – 21/05/2021
+CH: 1 horas
 Plataforma: Google Formulários
-LINK PARA O FORMULÁRIO{:target=&amp;quot;_blank&amp;quot;}.
-Atividades Síncronas (AS) Encontro virtual (EV) 01 Data: 17/05/2021
-Tema: Apresentação e reflexões sobre a disciplina
-Tipo: Síncrona
+LINK PARA O FORMULÁRIO - em breve.
+Leitura 1 (AA) Data: 17/05/2021 – 21/05/2021
 CH: 2 horas
-   Objetivos Conteúdos     Discutir práticas de ensino relacionadas à história da América Apresentação de tópicos da educação básica   Debater conceitos referentes à disciplina: índio/indígena; América Latina Conceituação, histórico e sentidos.</description>
+Textos Obrigatórios:
+ SILVA, Kalina Vanderlei; SILVA, Maciel Henrique.</description>
       </item>
       
       <item>
@@ -145,30 +62,17 @@ Ementa Formações sociais e políticas nas Américas antes do século XV: repre
       </item>
       
       <item>
-        <title>Test 1</title>
-        <link>https://cclhm0057.netlify.app/docs/depth1/test1/</link>
-        <pubDate>Thu, 30 Jan 2020 00:38:25 +0900</pubDate>
+        <title>Semana 2</title>
+        <link>https://cclhm0057.netlify.app/semanal/sem2/</link>
+        <pubDate>Fri, 07 May 2021 00:00:00 +0000</pubDate>
         <author>profericbrasil@unilab.edu.br (Professor Eric Brasil)</author>
-        <guid>https://cclhm0057.netlify.app/docs/depth1/test1/</guid>
-        <description></description>
-      </item>
-      
-      <item>
-        <title>Test 2</title>
-        <link>https://cclhm0057.netlify.app/docs/depth1/depth2/test2/</link>
-        <pubDate>Thu, 30 Jan 2020 00:38:25 +0900</pubDate>
-        <author>profericbrasil@unilab.edu.br (Professor Eric Brasil)</author>
-        <guid>https://cclhm0057.netlify.app/docs/depth1/depth2/test2/</guid>
-        <description></description>
-      </item>
-      
-      <item>
-        <title>Test 3</title>
-        <link>https://cclhm0057.netlify.app/docs/depth1/depth2/depth3/test3/</link>
-        <pubDate>Thu, 30 Jan 2020 00:38:25 +0900</pubDate>
-        <author>profericbrasil@unilab.edu.br (Professor Eric Brasil)</author>
-        <guid>https://cclhm0057.netlify.app/docs/depth1/depth2/depth3/test3/</guid>
-        <description></description>
+        <guid>https://cclhm0057.netlify.app/semanal/sem2/</guid>
+        <description>Legenda:
+ AA = Atividade Assíncrona AS = Atividade Síncrona AT = Atividade Avaliativa   Módulo 1 - América, Américas e o Ensino de História Período 24/05/2021 - 28/05/2021
+Leitura 2 (AA) Data: 24/05/2021 - 28/05/2021
+CH: 4 horas
+Textos Obrigatórios:
+ NARDI, Tawnne T. de A. “Mesoamérica, Mexicas e Tlapanecas.” In: O império mexica e a província de Tlapa. Relações políticas e tributárias nos códices mesoamericanos (1461-1521). São Paulo: Universidade de São Paulo, 30 set.</description>
       </item>
       
       <item>
@@ -183,12 +87,17 @@ Atividades Síncronas (AS): Encontros virtuais:   Os encontros virtuais terão e
       </item>
       
       <item>
-        <title>ttttest</title>
-        <link>https://cclhm0057.netlify.app/docs/depth1/ttttest/</link>
-        <pubDate>Thu, 30 Jan 2020 00:38:25 +0900</pubDate>
+        <title>Semana 3</title>
+        <link>https://cclhm0057.netlify.app/semanal/sem3/</link>
+        <pubDate>Fri, 07 May 2021 00:00:00 +0000</pubDate>
         <author>profericbrasil@unilab.edu.br (Professor Eric Brasil)</author>
-        <guid>https://cclhm0057.netlify.app/docs/depth1/ttttest/</guid>
-        <description></description>
+        <guid>https://cclhm0057.netlify.app/semanal/sem3/</guid>
+        <description>Legenda:
+ AA = Atividade Assíncrona AS = Atividade Síncrona AT = Atividade Avaliativa   Módulo 2 -Sociedades autóctones americanas antes do séc. XVI Período 31/05/2021 - 04/06/2021
+Leitura 3 (AA) Data: 31/05/2021 - 04/06/2021
+CH: 4 horas
+Textos Obrigatórios:
+ RESTALL, Matthew. Guerreiros Invisíveis: o mito do conquistador branco.In: Sete mitos da conquista espanhola. Rio de Janeiro: José Olympio, 2006. SANTOS, Eduardo Natalino dos. As conquistas de México-Tenochtitlan e da Nova Espanha.</description>
       </item>
       
       <item>
@@ -200,7 +109,21 @@ Atividades Síncronas (AS): Encontros virtuais:   Os encontros virtuais terão e
         <description>A divisão dos dias, atividades e temas para vcs organizarem suas vidas.
 Legenda:
  AA = Atividade Assíncrona AS = Atividade Síncrona  Semana 1 Período: 17/05/2021 - 21/05/2021 CH = 3h
-   Módulo 1 - América, Américas e o ensino de história     Tipo Tarefa 1 (AA)   Data 17/05/2021 a 21/05/2021   Carga Horária 2h   Tema Formulário de apresentação    Plantão de atendimento: Segunda-feira, 15h-16h no Discord</description>
+   Módulo 1 - América, Américas e o ensino de história 1 - América, Américas e o ensino de história     Tipo Tarefa 1 (AA) Leitura 1 (AA)   Data 17/05/2021 a 21/05/2021 17/05/2021 a 21/05/2021   Carga Horária 1h 2h   Tema Formulário de apresentação Ver link    Plantão de atendimento: Segunda-feira, 15h-16h no Discord</description>
+      </item>
+      
+      <item>
+        <title>Semana 4</title>
+        <link>https://cclhm0057.netlify.app/semanal/sem4/</link>
+        <pubDate>Fri, 07 May 2021 00:00:00 +0000</pubDate>
+        <author>profericbrasil@unilab.edu.br (Professor Eric Brasil)</author>
+        <guid>https://cclhm0057.netlify.app/semanal/sem4/</guid>
+        <description>Legenda:
+ AA = Atividade Assíncrona AS = Atividade Síncrona AT = Atividade Avaliativa   Módulo 3 - Conquistas e Resistências (XVI-XVII) Período 07/06/2021 - 11/06/2021
+Leitura 4 (AA) Data: 07/06/2021 - 11/06/2021
+CH: 4 horas
+Textos Obrigatórios:
+ BRUIT, Héctor. O visível e o invisível na Conquista hispânica da América. In: VAINFAS, Ronaldo (org.) América em tempo de conquista. Rio de Janeiro: Zahar Editor, 1992, pp. 77-87. MARTINS, F.</description>
       </item>
       
       <item>
@@ -210,10 +133,26 @@ Legenda:
         <author>profericbrasil@unilab.edu.br (Professor Eric Brasil)</author>
         <guid>https://cclhm0057.netlify.app/programa/4-site/</guid>
         <description>Explicações e dicas técnicas e acadêmicas sobre os usos e limites desse site.
-Construção do site Esse site é uma página estática construída com o pacote blogdown no RStudio que utiliza Hugo e o tema zDoc.
-O repositório, com todo o código e os materiais usados, está disponível no Github e utilizei o Netlify para fazer a publicação da página on-line.
-Clique aqui para acessar o repositório no GitHub.
-Usando os recursos Sendo essa uma página estática, com poucas imagens e outros recursos pesados, seu carregamento exige pouca banda de internet e está configurada para ser funcional tanto em computadores quanto em celulares e tablets.</description>
+Construção do site  
+Esse site é uma página estática construída com o pacote blogdown no RStudio que utiliza Hugo e o tema zDoc.
+O repositório, com o código e todos os materiais usados, está disponível no Github e utilizei o Netlify para fazer a publicação da página on-line.
+Clique aqui para acessar o repositório no GitHub.</description>
+      </item>
+      
+      <item>
+        <title>Semana 5</title>
+        <link>https://cclhm0057.netlify.app/semanal/sem5/</link>
+        <pubDate>Fri, 07 May 2021 00:00:00 +0000</pubDate>
+        <author>profericbrasil@unilab.edu.br (Professor Eric Brasil)</author>
+        <guid>https://cclhm0057.netlify.app/semanal/sem5/</guid>
+        <description>Legenda:
+ AA = Atividade Assíncrona AS = Atividade Síncrona AT = Atividade Avaliativa   Módulo 3 - Conquistas e Resistências (XVI-XVII) Período 14/06/2021 - 18/06/2021
+Plantão de atendimento Data: Segunda-feira, 14/06/2021, 15h-16h no Discord
+Encontro Virtual 2 (AS) Tema: Debate de textos - Leitura 3: As várias visões da “conquista”.
+Data: 14/06/2021
+CH: 2 horas
+Plataforma: Google Meet Link - em breve
+   Objetivos Conteúdos     Caracterizar as principais correntes historiográficas acerca da conquista europeia sobre as sociedades mexicas e incas (XVI) Historiografia sobre a conquista   Analisar historicamente as relações entre invasores europeus e as variadas sociedades americanas na primeira metade do século XVI O processo de conquista de México-Tenotchitlán    Atividade Avaliativa 1 (AA) Tema: Análise de fontes.</description>
       </item>
       
       <item>
@@ -229,75 +168,19 @@ Não haverá permissão de ingresso na sala virtual após o início do encontro.
       </item>
       
       <item>
-        <title>Related content</title>
-        <link>https://cclhm0057.netlify.app/docs/relatedcontent/</link>
-        <pubDate>Tue, 28 Jan 2020 00:39:09 +0900</pubDate>
+        <title>Semana 6</title>
+        <link>https://cclhm0057.netlify.app/semanal/sem6/</link>
+        <pubDate>Fri, 07 May 2021 00:00:00 +0000</pubDate>
         <author>profericbrasil@unilab.edu.br (Professor Eric Brasil)</author>
-        <guid>https://cclhm0057.netlify.app/docs/relatedcontent/</guid>
-        <description>Markdown here</description>
-      </item>
-      
-      <item>
-        <title>Page Resources</title>
-        <link>https://cclhm0057.netlify.app/docs/pageresources/</link>
-        <pubDate>Tue, 28 Jan 2020 00:39:06 +0900</pubDate>
-        <author>profericbrasil@unilab.edu.br (Professor Eric Brasil)</author>
-        <guid>https://cclhm0057.netlify.app/docs/pageresources/</guid>
-        <description>Markdown here</description>
-      </item>
-      
-      <item>
-        <title>Page Bundles</title>
-        <link>https://cclhm0057.netlify.app/docs/pagebundles/</link>
-        <pubDate>Tue, 28 Jan 2020 00:38:59 +0900</pubDate>
-        <author>profericbrasil@unilab.edu.br (Professor Eric Brasil)</author>
-        <guid>https://cclhm0057.netlify.app/docs/pagebundles/</guid>
-        <description>Markdown here</description>
-      </item>
-      
-      <item>
-        <title>Content Formats</title>
-        <link>https://cclhm0057.netlify.app/docs/contentfortmats/</link>
-        <pubDate>Tue, 28 Jan 2020 00:38:51 +0900</pubDate>
-        <author>profericbrasil@unilab.edu.br (Professor Eric Brasil)</author>
-        <guid>https://cclhm0057.netlify.app/docs/contentfortmats/</guid>
-        <description>Markdown here</description>
-      </item>
-      
-      <item>
-        <title>Image Processing</title>
-        <link>https://cclhm0057.netlify.app/docs/imageprocessing/</link>
-        <pubDate>Tue, 28 Jan 2020 00:38:48 +0900</pubDate>
-        <author>profericbrasil@unilab.edu.br (Professor Eric Brasil)</author>
-        <guid>https://cclhm0057.netlify.app/docs/imageprocessing/</guid>
-        <description>Markdown here</description>
-      </item>
-      
-      <item>
-        <title>Shortcodes</title>
-        <link>https://cclhm0057.netlify.app/docs/contentmanagement/shortcodes/</link>
-        <pubDate>Tue, 28 Jan 2020 00:36:19 +0900</pubDate>
-        <author>profericbrasil@unilab.edu.br (Professor Eric Brasil)</author>
-        <guid>https://cclhm0057.netlify.app/docs/contentmanagement/shortcodes/</guid>
-        <description>Markdown here</description>
-      </item>
-      
-      <item>
-        <title>Frontmatter</title>
-        <link>https://cclhm0057.netlify.app/docs/contentmanagement/frontmatter/</link>
-        <pubDate>Tue, 28 Jan 2020 00:36:14 +0900</pubDate>
-        <author>profericbrasil@unilab.edu.br (Professor Eric Brasil)</author>
-        <guid>https://cclhm0057.netlify.app/docs/contentmanagement/frontmatter/</guid>
-        <description>Markdown here</description>
-      </item>
-      
-      <item>
-        <title>Section</title>
-        <link>https://cclhm0057.netlify.app/docs/contentmanagement/sections/</link>
-        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-        <author>profericbrasil@unilab.edu.br (Professor Eric Brasil)</author>
-        <guid>https://cclhm0057.netlify.app/docs/contentmanagement/sections/</guid>
-        <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
+        <guid>https://cclhm0057.netlify.app/semanal/sem6/</guid>
+        <description>Legenda:
+ AA = Atividade Assíncrona AS = Atividade Síncrona AT = Atividade Avaliativa   Módulo 3 - Conquistas e Resistências (XVI-XVII) Período 21/06/2021 - 25/06/2021
+Plantão de atendimento Data: Segunda-feira, 21/06/2021, 15h-16h no Discord
+Encontro Virtual 3 (AS) Tema: Debate de textos - Leitura 4: Resistências, negociações e agência indígenas nos séculos XVI-XVII
+Data: 21/06/2021
+CH: 2 horas
+Plataforma: Google Meet Link - em breve
+   Objetivos Conteúdos     Caracterizar os variados aspectos das estratégias de resistência e agência histórica das sociedades americanas frente a dominação colonial nos séculos XVI e XVII.</description>
       </item>
       
     

@@ -11,9 +11,9 @@
   weight = 2
 
 [[main]]
-  identifier = "noticias"
+  identifier = "Notícias"
   name = "Notícias"
-  url = "noticias"
+  url = "blog"
   weight = 5
 
 [[main]]

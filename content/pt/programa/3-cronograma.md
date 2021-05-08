@@ -28,6 +28,10 @@ CH = 3h
 
 **Plantão de atendimento**: Segunda-feira, 15h-16h no *Discord*
 
+[**Link para a página da semana**](https://cclhm0057.netlify.app/semanal/sem1/)
+
+---
+
 ## Semana 2
 
 ### Período: 24/05/2021 - 28/05/2021
@@ -42,6 +46,10 @@ CH = 7h
 | Tema          | [Ver link]()                                 | Apresentação e reflexões sobre a disciplina  |
 
 **Plantão de atendimento**: Segunda-feira, 15h-16h no *Discord*
+
+[**Link para a página da semana**](https://cclhm0057.netlify.app/semanal/sem2/)
+
+---
 
 ## Semana 3
 
@@ -59,6 +67,10 @@ CH = 7h
 
 **Plantão de atendimento**: Segunda-feira, 15h-16h no *Discord*
 
+[**Link para a página da semana**](https://cclhm0057.netlify.app/semanal/sem3/)
+
+---
+
 ## Semana 4
 
 ### Período: 07/06/2021 - 11/06/2021
@@ -73,6 +85,10 @@ CH = 6h
 | Tema          | Expansão europeia nos séculos XV e XVI. [Link para a vídeo-aula]() | [Link]()                                 |
 
 **Plantão de atendimento**: Segunda-feira, 15h-16h no *Discord*
+
+[**Link para a página da semana**](https://cclhm0057.netlify.app/semanal/sem4/)
+
+---
 
 ## Semana 5
 
@@ -89,6 +105,10 @@ CH = 7h
 
 **Plantão de atendimento**: Segunda-feira, 15h-16h no *Discord*
 
+[**Link para a página da semana**](https://cclhm0057.netlify.app/semanal/sem5/)
+
+---
+
 ## Semana 6
 
 ### Período: 21/06/2021 - 25/06/2021
@@ -103,6 +123,10 @@ CH = 3h
 | Tema          | Debate de texto: Resistências, negociação, agência: história e historiografia (XVI-XVII) | [Link]()
 
 **Plantão de atendimento**: Segunda-feira, 15h-16h no *Discord*
+
+[**Link para a página da semana**](https://cclhm0057.netlify.app/semanal/sem6/)
+
+---
 
 ## Semana 7
 
@@ -119,6 +143,10 @@ CH = 5h
 
 **Plantão de atendimento**: Segunda-feira, 15h-16h no *Discord*
 
+[**Link para a página da semana**](https://cclhm0057.netlify.app/semanal/sem7/)
+
+---
+
 ## Semana 8
 
 ### Período: 05/07/2021 - 09/07/2021
@@ -133,6 +161,10 @@ CH = 7h
 | Tema          | A escravidão no “Novo Mundo”: raça, capitalismo e trabalho | [Link]()                                              |
 
 **Plantão de atendimento**: Segunda-feira, 15h-16h no *Discord*
+
+[**Link para a página da semana**](https://cclhm0057.netlify.app/semanal/sem8/)
+
+---
 
 ## Semana 9
 
@@ -149,6 +181,10 @@ CH = 3h
 
 **Plantão de atendimento**: Segunda-feira, 15h-16h no *Discord*
 
+[**Link para a página da semana**](https://cclhm0057.netlify.app/semanal/sem9/)
+
+---
+
 ## Semana 10
 
 ### Período: 19/07/2021 - 23/07/2021
@@ -163,6 +199,10 @@ CH = 7h
 | Tema          | Debate de texto: a definir                            | [Link]()                                              |
 
 **Plantão de atendimento**: Segunda-feira, 15h-16h no *Discord*
+
+[**Link para a página da semana**](https://cclhm0057.netlify.app/semanal/sem10/)
+
+---
 
 ## Semana 11
 
@@ -179,6 +219,10 @@ CH = 5h
 
 **Plantão de atendimento**: Segunda-feira, 15h-16h no *Discord*
 
+[**Link para a página da semana**](https://cclhm0057.netlify.app/semanal/sem11/)
+
+---
+
 ## Semana 12
 
 ### Período:  02/08/2021 - 06/08/2021
@@ -194,6 +238,10 @@ CH = 10h
 
 **Plantão de atendimento**: Segunda-feira, 15h-16h no *Discord*
 
+[**Link para a página da semana**](https://cclhm0057.netlify.app/semanal/sem12/)
+
+---
+
 ## Semana 13
 
 ### Período:  09/08/2021 - 13/08/2021
@@ -208,3 +256,5 @@ CH = 3h
 | Tema          | Debate de Texto: A crise do sistema colonial          | Formulário de avaliação do curso e do docente. [Link]() |
 
 **Plantão de atendimento**: Segunda-feira, 15h-16h no *Discord*
+
+[**Link para a página da semana**](https://cclhm0057.netlify.app/semanal/sem13/)

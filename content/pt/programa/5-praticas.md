@@ -18,7 +18,7 @@ Não haverá permissão de ingresso na sala virtual após o início do encontro.
 
 Ao entrar na sala virtual, manter o microfone fechado. Todos e todas são encorajados a manter suas câmeras abertas, se se sentirem a vontade e tiverem condições técnicas.
 
-{{< alert theme="warning" >}}Vamos sempre lembrar que todos/as estamos enfrentando a pandemia da melhor maneira possível. Vamos ser gentis, respeitar os/as colegas, o professor e o/a monitor/a.{{< /alert >}}
+{{< alert theme="success" >}}Vamos sempre lembrar que todos/as estamos enfrentando a pandemia da melhor maneira possível. Vamos ser gentis, respeitar os/as colegas, o professor e o/a monitor/a.{{< /alert >}}
 
 ### Leituras
 
@@ -44,7 +44,7 @@ As atividades avaliativas serão corrigidas e comentadas no SIGAA. Levarei em co
 
 É indicado que as atividades entregues no SIGAA estejam nos formatos .doc, .docx,.txt.,.odt ou .md.
 
-{{< alert theme="warning" >}}Não enviem as atividades avaliativas em formato PDF.{{< /alert >}}
+{{< alert theme="info" >}}Não enviem as atividades avaliativas em formato PDF.{{< /alert >}}
 
 ### Referências bibliográficas
 
@@ -70,6 +70,7 @@ O uso de textos em páginas da WEB também exige a indicação da referência.
 ## Contato Humano virtual
 
 Imagino que vcs, assim como eu, estão porfundamente cansados com tudo que a pandemia causou em nossas vidas.
+
 Se no ensino remoto não conseguimos estabelecer as conexões humanas da mesma forma, precisamos tentar outras estratégias para nos comunicar.
 
 ### Discord
@@ -77,6 +78,9 @@ Se no ensino remoto não conseguimos estabelecer as conexões humanas da mesma f
 O [Discord](https://discord.com/) é uma plataforma de comunicação que pode ser acessada em seu navegador ou baixar o aplicativo para ser usado no celular ou tablet.
 
 Vocês serão convidados para serem membros de um servidor (como um grupo de mensagens) específico da turma. 
+
 Estarei frequentemente on-line para tirar dúvidas e esclarecer tarefas, ouvir sugestões e críticas. O horário fixo de atendimento é segunda-feira, de 16h às 16h.
 
-Essa é a primeira vz que pretendo usar esse recurso com uma turma e torço pra que a experiência seja proveitosa.
+Essa é a primeira vez que pretendo usar esse recurso com uma turma e torço pra que a experiência seja proveitosa.
+
+{{< alert theme="info" >}}Não há obrigatoriedade em utilizar o _Discord_.{{< /alert >}}

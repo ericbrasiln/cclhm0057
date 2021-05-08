@@ -22,6 +22,12 @@ Nesse site vcs encontram todo o material do curso, as informações sobre cornog
 {{< img src="/images/discord.png" width="350px" position="center" >}}
 
 
-Nosso espaço para conversas, ajuda, tirar dúvidas, compartilhar angústias e apreensões, trocar gifs e dar suporte emocional uns aos outros será em um servidor Discord. Você receberá um convite por email para participar. **Não é obrigatório participar através do Discord.**
+Nosso espaço para conversas, ajuda, tirar dúvidas, compartilhar angústias e apreensões, trocar gifs e dar suporte emocional uns aos outros será em um servidor Discord. Você receberá um convite por email para participar. 
+
+{{< notice warning "Atenção" >}}
+Não é obrigatório participar através do Discord.
+{{< /notice >}}
+
+---
 
 Por favor, leiam com atenção as próximas seções.
