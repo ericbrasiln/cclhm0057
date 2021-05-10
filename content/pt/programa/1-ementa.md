@@ -6,24 +6,6 @@ draft: false
 weight: 1
 ---
 
-# CCLHM0057 - História da América: colonização e resistência
-
-Professor [_Eric Brasil_](https://ericbrasiln.github.io)
-
-**Instituto de Humanidades e Letras, campus dos Malês, Universidade da Integração Internacional da Lusofonia Afro-brasileira (UNILAB)**
-
-**Disciplina obrigatória do curso de [licenciatura em História](http://historia.males.unilab.edu.br/)**
-
-**Semestre**: 2020.2
-
-**Carga Horária**:
-
-| Teórica             | Prática como compontente curricular         | Total |
-|:--------------------|:------------------|:---------|
-| 60h | 15h | 75h |
-
-**Horário das aulas síncronas** (conforme [cronograma](cronograma)): segundas-feiras, 19h às 21h
-
 ## Ementa
 
 Formações sociais e políticas nas Américas antes do século XV: representações, história e historiografia. Invasões, contatos e conquistas nos séculos XV e XVI: história e historiografia. Formação das sociedades coloniais nas Américas: desigualdades e diferenças. Trabalho e tributo colonial: impactos na ordem social das sociedades autóctones. Embates e formas de negociação e resistência: historiografia. Escravidão e resistências nas sociedades coloniais sob domínio britânico, francês e espanhol. Tráfico atlântico e formação das Afro-Américas. A crise do sistema colonial. O ensino de história e historiografia da América na escola básica.
