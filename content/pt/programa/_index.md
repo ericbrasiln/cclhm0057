@@ -5,13 +5,30 @@ date: 2021-03-31T13:54:05-03:00
 draft: false
 ---
 
+# CCLHM0057 - História da América: colonização e resistência
+
+Professor [_Eric Brasil_](https://ericbrasiln.github.io)
+
+no Twitter como <a href="https://twitter.com/ericbrasiln">'@ericbrasiln'</a>
+ou por e-mail : profericbrasil@unilab.edu.br / ericbrasiln@protonmail.com
+
+**Instituto de Humanidades e Letras, campus dos Malês, Universidade da Integração Internacional da Lusofonia Afro-brasileira (UNILAB)**
+
+**Disciplina obrigatória do curso de [licenciatura em História](http://historia.males.unilab.edu.br/)**
+
+**Semestre**: 2020.2
+
+**Carga Horária**:
+
+| Teórica             | Prática como compontente curricular         | Total |
+|:--------------------|:------------------|:---------|
+| 60h | 15h | 75h |
+
+**Horário das aulas síncronas** (conforme [cronograma](cronograma)): segundas-feiras, 19h às 21h
+
+***
+
 (Quase) Tudo que vc precisa saber sobre a disciplina CCLHM0057 - História da América: colonização e resistência
-
-Prof. <a href ="https://ericbrasiln.github.io">Eric Brasil</a>
-
-no twitter como <a href="https://twitter.com/ericbrasiln">'ericbrasiln'</a>
-profericbrasil@unilab.edu.br
-ericbrasiln@protonmail.com
 
 Sejam bem-vindos/as ao curso!
 
