@@ -26,15 +26,15 @@ Abaixo, alguns recursos do site na versão para computador:
 
 - Tela inicial com botões para acessar o programa completo e outro para ver meus contatos.
 
-{{< img src="/images/page1.png" position="center" >}}
+{{< img src="/images/page1.png" title="exemplo 01" position="center" >}}
 ---
 
 - No canto superior direito, há barra de busca, botão para alternar o tema entre claro e escuro, e botão para acessar o repositório no GitHub.
 
-{{< img src="/images/page2.png" position="center" >}}
+{{< img src="/images/page2.png" title="exemplo 02" position="center" >}}
 ---
 
 - No canto superior esquerdo está localizado o menu principal:
 
-{{< img src="/images/page3.png" position="center" >}}
+{{< img src="/images/page3.png" title="exemplo 03" position="center" >}}
 ---
