@@ -25,6 +25,10 @@ Legenda:
 
 ## Vídeo-aula 4 (AA)
 
+{{ < notice info "Leitura" >}}
+Essa vídeo-aula abordará a [Leitura 7](https://cclhm0057.netlify.app/semanal/sem8/#leitura-7-aa).
+{{ < /notice >}}
+
 **Tema**: A escravidão no México, Região Andina e Região Platina
 
 **Data:**  12/07/2021 - 16/07/2021
@@ -37,16 +41,17 @@ Legenda:
 |:--------------------|:------------------|
 | Compreender as variadas formas de escravidão e as estratégias de resistência de escravizados na região do México, do Peru e do Rio da Prata. | Escravidão Africana na Nova Espanha, nos Andes e no Vice-reino da Prata entre os séculos XVI e XVIII. |
 
-## Vídeo-aula 5 (AA)
 
-**Tema**: As 13 Colônias do Norte e o Caribe
+## Leitura 8 (AA)
 
-**Data:**  12/07/2021 - 16/07/2021
+{{ < notice info "Leitura" >}}
+Essa leitura será abordada na [Vídeo-aula 5](https://cclhm0057.netlify.app/semanal/sem10/#v%C3%ADdeo-aula-5-aa)
+{{ < /notice >}}
 
-**CH**: 1 hora
+**Data**: 19/07/2021 - 23/07/2021
 
-**Plataforma**: `YouTube` [Link - em breve]()
+**CH**: 4 horas
 
-| Objetivos           | Conteúdos         |
-|:--------------------|:------------------|
-| Analisar a formação dos sistemas escravistas nas colônias inglesas. | Sistema de plantation; Tráfico de Escravos; ocupação e colonização das treze coloniais do Norte. |
+**Textos Obrigatórios**:
+
+1. [BLACKBURN, Robin. “A formação da escravidão colonial inglesa.” In: A construção do escravismo no Novo Mundo. Rio de Janeiro: Record, 2003.](https://ericbrasiln.github.io/cclhm0057_ihl/textos/mod_5/blackburn.pdf)

@@ -25,6 +25,10 @@ Legenda:
 
 ## Encontro Virtual 4 (AS)
 
+{{ < notice info "Leitura" >}}
+Para essa aula é preciso ler a [Leitura 6](https://cclhm0057.netlify.app/semanal/sem7/#leitura-6-aa).
+{{ < /notice >}}
+
 **Tema**: A escravidão no “Novo Mundo”: tráfico, raça e trabalho
 
 **Data:**  09/07/2021
@@ -38,6 +42,10 @@ Legenda:
 | Refletir sobre a historiografia sobre tráfico e escravidão. | Desenvolvimento do tráfico de africanos escravizados entre África e Américas e constitução do sistema escravista. |
 
 ## Leitura 7 (AA)
+
+{{ < notice info "Leitura" >}}
+Essa leitura será abordada na [Vídeo-aula 4](https://cclhm0057.netlify.app/semanal/sem9/#v%C3%ADdeo-aula-4-aa)
+{{ < /notice >}}
 
 **Data:**  05/07/2021 - 09/07/2021
 

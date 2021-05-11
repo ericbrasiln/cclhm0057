@@ -25,7 +25,11 @@ Legenda:
 
 ## Encontro Virtual 2 (AS)
 
-**Tema**: Debate de textos - [Leitura 3](https://cclhm0057.netlify.app/semanal/sem3/#leitura-3-aa): As várias visões da “conquista”.
+**Tema**: Debate de textos - As várias visões da “conquista”.
+
+{{ < notice info "Leitura" >}}
+Para essa aula é preciso ler a [Leitura 3](https://cclhm0057.netlify.app/semanal/sem3/#leitura-3-aa)
+{{ < /notice >}}
 
 **Data:**  14/06/2021
 

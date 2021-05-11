@@ -25,7 +25,7 @@ Legenda:
 
 ## Encontro Virtual 6 (AS)
 
-**Tema**: Debate de Texto - [Leitura 9](): A crise do sistema colonial
+**Tema**: A crise do sistema colonial
 
 **Data**: 09/08/2021
 

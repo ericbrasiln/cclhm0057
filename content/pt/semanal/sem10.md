@@ -23,15 +23,23 @@ Legenda:
 
 **Data**: Segunda-feira, 19/07/2021, 15h-16h no *Discord*
 
-## Leitura 8 (AA)
+## Vídeo-aula 5 (AA)
 
-**Data**: 19/07/2021 - 23/07/2021
+{{ < notice info "Leitura" >}}
+Essa vídeo-aula abordará a [Leitura 8](https://cclhm0057.netlify.app/semanal/sem9/#leitura-8-aa).
+{{ < /notice >}}
 
-**CH**: 4 horas
+**Tema**: As 13 Colônias do Norte e o Caribe
 
-**Textos Obrigatórios**:
+**Data:**  12/07/2021 - 16/07/2021
 
-1. [A definir]()
+**CH**: 1 hora
+
+**Plataforma**: `YouTube` [Link - em breve]()
+
+| Objetivos           | Conteúdos         |
+|:--------------------|:------------------|
+| Analisar a formação dos sistemas escravistas nas colônias inglesas. | Sistema de plantation; Tráfico de Escravos; ocupação e colonização das treze coloniais do Norte. |
 
 ## Atividade Avaliativa 2 (AA)
 

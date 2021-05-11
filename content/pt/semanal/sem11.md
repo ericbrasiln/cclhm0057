@@ -23,15 +23,19 @@ Legenda:
 
 **Data**: Segunda-feira, 19/07/2021, 15h-16h no *Discord*
 
-## Encontro Virtual 5 (AS)
+## Leitura 9 (AA)
 
-**Tema**: Debate de texto - [Leitura 8](): Lutas contra o cativeiro, lutas pela liberdade
+{{ < notice info "Leitura" >}}
+Essa leitura será discutida no [Encontro virtual 5](https://cclhm0057.netlify.app/semanal/sem12/#encontro-virtual-5-as)
+{{ < /notice >}}
 
-**Data**: 26/07/2021
+**Data**: 26/07/2021 - 30/07/2021
 
-**CH**: 2 horas
+**CH**: 4 horas
 
-**Plataforma**: `Google Meet` - [Link - em breve]()
+**Textos Obrigatórios**:
+
+1. []()
 
 ## Tarefa 2 (AA)
 

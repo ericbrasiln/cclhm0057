@@ -21,6 +21,10 @@ Legenda:
 
 ## Leitura 2 (AA)
 
+{{< notice info "Encontro Virtual" >}}
+Essa leitura será abordada na [Vídeo-aula 1](https://cclhm0057.netlify.app/semanal/sem3/#v%C3%ADdeo-aula-1-aa)
+{{< /notice >}}
+
 **Data:** 24/05/2021 - 28/05/2021
 
 **CH**: 4 horas
@@ -37,6 +41,10 @@ Legenda:
 ## Encontro Virtual 1 (AS)
 
 **Tema**: Apresentação e reflexões sobre a disciplina
+
+{{< notice info "Leitura" >}}
+Para essa aula é preciso ler a [Leitura 1](https://cclhm0057.netlify.app/semanal/sem1/#leitura-1-aa).
+{{< /notice >}}
 
 **Data:** 24/05/2021
 

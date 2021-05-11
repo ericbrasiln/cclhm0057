@@ -25,13 +25,17 @@ Legenda:
 
 **Data:** 17/05/2021 – 21/05/2021
 
-**CH**: 1 horas
+**CH**: 1 hora
 
 **Plataforma**: `Google Formulários`
 
 ***[LINK PARA O FORMULÁRIO - em breve]().***
 
 ## Leitura 1 (AA)
+
+{{< notice info "Encontro Virtual" >}}
+Essa leitura será discutida no [Encontro virtual 1](https://cclhm0057.netlify.app/semanal/sem2/#encontro-virtual-1-as)
+{{< /notice >}}
 
 **Data:** 17/05/2021 – 21/05/2021
 

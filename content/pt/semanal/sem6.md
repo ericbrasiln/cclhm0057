@@ -25,7 +25,11 @@ Legenda:
 
 ## Encontro Virtual 3 (AS)
 
-**Tema**: Debate de textos - [Leitura 4](https://cclhm0057.netlify.app/semanal/sem4/#leitura-4-aa): Resistências, negociações e agência indígenas nos séculos XVI-XVII
+**Tema**: Debate de textos - Resistências, negociações e agência indígenas nos séculos XVI-XVII
+
+{{ < notice info "Leitura" >}}
+Para essa aula é preciso ler a [Leitura 4](https://cclhm0057.netlify.app/semanal/sem4/#leitura-4-aa)
+{{ < /notice >}}
 
 **Data:**  21/06/2021
 
@@ -38,6 +42,10 @@ Legenda:
 | Caracterizar os variados aspectos das estratégias de resistência e agência histórica das sociedades americanas frente a dominação colonial nos séculos XVI e XVII. | Resistência e negociação no México e nos Andes. |
 
 ## Leitura 5 (AA)
+
+{{ < notice info "Leitura" >}}
+Essa leitura vai ser abordada na [Vídeo-aula 3](https://cclhm0057.netlify.app/semanal/sem7/#v%C3%ADdeo-aula-3-aa)
+{{ < /notice >}}
 
 **Data:**  21/06/2021 - 25/06/2021
 
