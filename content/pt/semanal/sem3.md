@@ -21,9 +21,11 @@ Legenda:
 
 ## Leitura 3 (AA)
 
-{{< notice info "Encontro Virtual" >}}
+{{< notice info "Atenção" >}}
 Essa leitura será discutida no [Encontro virtual 2](https://cclhm0057.netlify.app/semanal/sem5/#encontro-virtual-2-as)
 {{< /notice >}}
+
+***
 
 **Data:** 31/05/2021 - 04/06/2021
 
@@ -43,6 +45,8 @@ Essa leitura será discutida no [Encontro virtual 2](https://cclhm0057.netlify.a
 {{< notice info "Leitura" >}}
 Para essa aula é preciso ler a [Leitura 2](https://cclhm0057.netlify.app/semanal/sem2/#leitura-2-aa).
 {{< /notice >}}
+
+***
 
 **Tema**: Sociedades autóctones americanas antes do século XVI.
 

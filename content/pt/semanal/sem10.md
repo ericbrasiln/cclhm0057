@@ -25,9 +25,11 @@ Legenda:
 
 ## Vídeo-aula 5 (AA)
 
-{{ < notice info "Leitura" >}}
+{{< notice info "Leitura" >}}
 Essa vídeo-aula abordará a [Leitura 8](https://cclhm0057.netlify.app/semanal/sem9/#leitura-8-aa).
-{{ < /notice >}}
+{{< /notice >}}
+
+***
 
 **Tema**: As 13 Colônias do Norte e o Caribe
 

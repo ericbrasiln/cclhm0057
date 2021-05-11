@@ -21,7 +21,7 @@ Legenda:
 
 ## Leitura 2 (AA)
 
-{{< notice info "Encontro Virtual" >}}
+{{< notice info "Atenção" >}}
 Essa leitura será abordada na [Vídeo-aula 1](https://cclhm0057.netlify.app/semanal/sem3/#v%C3%ADdeo-aula-1-aa)
 {{< /notice >}}
 
@@ -45,6 +45,8 @@ Essa leitura será abordada na [Vídeo-aula 1](https://cclhm0057.netlify.app/sem
 {{< notice info "Leitura" >}}
 Para essa aula é preciso ler a [Leitura 1](https://cclhm0057.netlify.app/semanal/sem1/#leitura-1-aa).
 {{< /notice >}}
+
+***
 
 **Data:** 24/05/2021
 

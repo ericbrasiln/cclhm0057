@@ -25,9 +25,11 @@ Legenda:
 
 ## Vídeo-aula 4 (AA)
 
-{{ < notice info "Leitura" >}}
+{{< notice info "Leitura" >}}
 Essa vídeo-aula abordará a [Leitura 7](https://cclhm0057.netlify.app/semanal/sem8/#leitura-7-aa).
-{{ < /notice >}}
+{{< /notice >}}
+
+***
 
 **Tema**: A escravidão no México, Região Andina e Região Platina
 
@@ -44,9 +46,11 @@ Essa vídeo-aula abordará a [Leitura 7](https://cclhm0057.netlify.app/semanal/s
 
 ## Leitura 8 (AA)
 
-{{ < notice info "Leitura" >}}
+{{< notice info "Atenação" >}}
 Essa leitura será abordada na [Vídeo-aula 5](https://cclhm0057.netlify.app/semanal/sem10/#v%C3%ADdeo-aula-5-aa)
-{{ < /notice >}}
+{{< /notice >}}
+
+***
 
 **Data**: 19/07/2021 - 23/07/2021
 

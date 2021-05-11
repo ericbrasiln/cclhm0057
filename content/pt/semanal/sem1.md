@@ -33,9 +33,11 @@ Legenda:
 
 ## Leitura 1 (AA)
 
-{{< notice info "Encontro Virtual" >}}
+{{< notice info "Atenção" >}}
 Essa leitura será discutida no [Encontro virtual 1](https://cclhm0057.netlify.app/semanal/sem2/#encontro-virtual-1-as)
 {{< /notice >}}
+
+***
 
 **Data:** 17/05/2021 – 21/05/2021
 

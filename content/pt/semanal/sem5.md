@@ -27,9 +27,11 @@ Legenda:
 
 **Tema**: Debate de textos - As várias visões da “conquista”.
 
-{{ < notice info "Leitura" >}}
+{{< notice info "Leitura" >}}
 Para essa aula é preciso ler a [Leitura 3](https://cclhm0057.netlify.app/semanal/sem3/#leitura-3-aa)
-{{ < /notice >}}
+{{< /notice >}}
+
+***
 
 **Data:**  14/06/2021
 

@@ -25,9 +25,11 @@ Legenda:
 
 ## Leitura 9 (AA)
 
-{{ < notice info "Leitura" >}}
+{{< notice info "Atenção" >}}
 Essa leitura será discutida no [Encontro virtual 5](https://cclhm0057.netlify.app/semanal/sem12/#encontro-virtual-5-as)
-{{ < /notice >}}
+{{< /notice >}}
+
+***
 
 **Data**: 26/07/2021 - 30/07/2021
 

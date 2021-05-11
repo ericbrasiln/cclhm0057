@@ -25,9 +25,11 @@ Legenda:
 
 ## Encontro Virtual 5 (AS)
 
-{{ < notice info "Leitura" >}}
+{{< notice info "Leitura" >}}
 Para essa aula é preciso ler a [Leitura 9](https://cclhm0057.netlify.app/semanal/sem11/#leitura-9-aa).
-{{ < /notice >}}
+{{< /notice >}}
+
+***
 
 **Tema**: Debate de texto - Lutas contra o cativeiro, lutas pela liberdade
 

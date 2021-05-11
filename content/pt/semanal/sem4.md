@@ -21,9 +21,12 @@ Legenda:
 
 ## Leitura 4 (AA)
 
-{{< notice info "Leitura" >}}
+{{< notice info "Atenção" >}}
 Essa leitura será discutida no [Encontro virtual 3](https://cclhm0057.netlify.app/semanal/sem6/#encontro-virtual-3-as)
-{{ < /notice >}}
+{{< /notice >}}
+
+***
+
 **Data:** 07/06/2021 - 11/06/2021
 
 **CH**: 4 horas
