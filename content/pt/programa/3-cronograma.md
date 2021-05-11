@@ -193,10 +193,10 @@ CH = 7h
 
 | Módulo        | 5 - Escravidão Africana nas Américas (séc. XVI-XVIII) | 5 - Escravidão Africana nas Américas (séc. XVI-XVIII) |
 | ------------- | ----------------------------------------------------- | ----------------------------------------------------- |
-| Tipo          | Encontro Virtual 5 (AS)                               | Atividade Avaliativa 2 (AA)                           |
-| Data          | 19/07/2021                                            | 19/07/2021 - 06/08/2021                               |
-| Carga Horária | 2h                                                    | 4h                                                    |
-| Tema          | Debate de texto: a definir                            | [Link]()                                              |
+| Tipo          | Leitura 8 (AA)                               | Atividade Avaliativa 2 (AA)                           |
+| Data          | 19/07/2021 - 23/07/2021                                            | 19/07/2021 - 06/08/2021                               |
+| Carga Horária | 4h                                                    | 4h                                                    |
+| Tema          | [link]()                            | [Link]()                                              |
 
 **Plantão de atendimento**: Segunda-feira, 15h-16h no *Discord*
 
@@ -212,10 +212,10 @@ CH = 5h
 
 | Módulo        | 5 - Escravidão Africana nas Américas (séc. XVI-XVIII)        | 5 - Escravidão Africana nas Américas (séc. XVI-XVIII) |
 | ------------- | ------------------------------------------------------------ | ----------------------------------------------------- |
-| Tipo          | Encontro Virtual 6 (AS)                                      | Tarefa 2 (AA)                                         |
+| Tipo          | Encontro Virtual 5 (AS)                                      | Tarefa 2 (AA)                                         |
 | Data          | 26/07/2021                                                   | 26/07/2021 - 30/07/2021                               |
 | Carga Horária | 2h                                                           | 2h                                                    |
-| Tema          | Debate de texto: Lutas contra o cativeiro, lutas pela liberdade | Vídeo de apoio [Link]()                               |
+| Tema          | Debate de texto - [Leitura 8](): Lutas contra o cativeiro, lutas pela liberdade | Vídeo de apoio [Link]()                               |
 
 **Plantão de atendimento**: Segunda-feira, 15h-16h no *Discord*
 
@@ -231,7 +231,7 @@ CH = 10h
 
 | Módulo        | 5 - Escravidão Africana nas Américas (séc. XVI-XVIII) | 5 - Escravidão Africana nas Américas (séc. XVI-XVIII) |
 | ------------- | ----------------------------------------------------- | ----------------------------------------------------- |
-| Tipo          | Leitura 6 (AA)                                        | Atividade Avaliativa 3 (AA)                           |
+| Tipo          | Leitura 9 (AA)                                        | Atividade Avaliativa 3 (AA)                           |
 | Data          | 02/08/2021 - 13/08/2021                               | 2/08/2021 - 30/08/2021                                |
 | Carga Horária | 4h                                                    | 6h                                                    |
 | Tema          | [Link]()                                              | [Link]()                                              |
@@ -250,10 +250,10 @@ CH = 3h
 
 | Módulo        | 5 - Escravidão Africana nas Américas (séc. XVI-XVIII) | Encerramento                                            |
 | ------------- | ----------------------------------------------------- | ------------------------------------------------------- |
-| Tipo          | Encontro Virtual 7 (AS)                               | Tarefa 3 (AA)                                           |
+| Tipo          | Encontro Virtual 6 (AS)                               | Tarefa 3 (AA)                                           |
 | Data          | 09/08/2021                                            | 09/08/2021 - 30/08/2021                                 |
 | Carga Horária | 2h                                                    | 1h                                                      |
-| Tema          | Debate de Texto: A crise do sistema colonial          | Formulário de avaliação do curso e do docente. [Link]() |
+| Tema          | Debate de Texto - [Leitura 9](): A crise do sistema colonial          | Formulário de avaliação do curso e do docente. [Link]() |
 
 **Plantão de atendimento**: Segunda-feira, 15h-16h no *Discord*
 

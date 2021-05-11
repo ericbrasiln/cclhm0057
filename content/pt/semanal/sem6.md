@@ -25,7 +25,7 @@ Legenda:
 
 ## Encontro Virtual 3 (AS)
 
-**Tema**: Debate de textos - [Leitura 4](): Resistências, negociações e agência indígenas nos séculos XVI-XVII
+**Tema**: Debate de textos - [Leitura 4](https://cclhm0057.netlify.app/semanal/sem4/#leitura-4-aa): Resistências, negociações e agência indígenas nos séculos XVI-XVII
 
 **Data:**  21/06/2021
 
