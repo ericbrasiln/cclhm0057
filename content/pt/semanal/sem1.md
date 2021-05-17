@@ -21,15 +21,19 @@ Legenda:
 
 ## Tarefa 01 (AA)
 
-**Tema**: Formulário de apresentação
+**Tema**: Assistir vídeo de apresentação e preencher o Formulário
 
-**Data:** 17/05/2021 – 21/05/2021
+**Data:** 17/05/2021 – 23/05/2021
 
 **CH**: 1 hora
 
 **Plataforma**: `Google Formulários`
 
-***[LINK PARA O FORMULÁRIO - em breve]().***
+***[LINK PARA O FORMULÁRIO](https://forms.gle/hkYqqmxtjz5tsouG8).***
+
+**Plataforma**: `YouTube`
+
+***[LINK PARA O VÍDEO DE APRESENTAÇÃO](https://youtu.be/3S28KzHiK-g).***
 
 ## Leitura 1 (AA)
 
