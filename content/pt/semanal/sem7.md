@@ -31,7 +31,7 @@ Legenda:
 
 **CH**: 1 horas
 
-**Plataforma**: `YouTube` [Link - em breve]()
+**Plataforma**: `YouTube` [Link](https://youtu.be/AODcs9RqtJE)
 
 | Objetivos           | Conteúdos         |
 |:--------------------|:------------------|

@@ -54,7 +54,7 @@ Para essa aula é preciso ler a [Leitura 2](https://cclhm0057.netlify.app/semana
 
 **CH**: 1 horas
 
-**Plataforma**: `YouTube` [Link - em breve]()
+**Plataforma**: `YouTube` [Link](https://youtu.be/0ntyn5BnZtY)
 
 | Objetivos           | Conteúdos         |
 |:--------------------|:------------------|

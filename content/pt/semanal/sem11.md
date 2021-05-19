@@ -21,7 +21,7 @@ Legenda:
 
 ## Plantão de atendimento
 
-**Data**: Segunda-feira, 19/07/2021, 15h-16h no *Discord*
+**Data**: Segunda-feira, 26/07/2021, 15h-16h no *Discord*
 
 ## Leitura 9 (AA)
 

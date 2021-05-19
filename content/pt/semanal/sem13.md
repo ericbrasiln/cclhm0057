@@ -31,7 +31,7 @@ Legenda:
 
 **CH**: 2 horas
 
-**Plataforma**: `Google Meet` [Link - em breve]()
+**Plataforma**: `Google Meet` - link enviado por e-mail.
 
 ## Tarefa 3 (AA)
 

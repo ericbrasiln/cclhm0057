@@ -21,7 +21,7 @@ Legenda:
 
 ## Plantão de atendimento
 
-**Data**: Segunda-feira, 19/07/2021, 15h-16h no *Discord*
+**Data**: Segunda-feira, 02/08/2021, 15h-16h no *Discord*
 
 ## Encontro Virtual 5 (AS)
 
@@ -33,11 +33,11 @@ Para essa aula é preciso ler a [Leitura 9](https://cclhm0057.netlify.app/semana
 
 **Tema**: Debate de texto - Lutas contra o cativeiro, lutas pela liberdade
 
-**Data**: 26/07/2021
+**Data**: 02/08/2021
 
 **CH**: 2 horas
 
-**Plataforma**: `Google Meet` - [Link - em breve]()
+**Plataforma**: `Google Meet` - link enviado por e-mail.
 
 ## Atividade Avaliativa 3 (AA)
 

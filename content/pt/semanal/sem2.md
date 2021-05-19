@@ -54,7 +54,7 @@ Para essa aula é preciso ler a [Leitura 1](https://cclhm0057.netlify.app/semana
 
 **CH**: 2 horas
 
-**Plataforma**: `Google Meet` [Link - em breve]()
+**Plataforma**: `Google Meet` - link enviado por e-mail.
 
 | Objetivos           | Conteúdos         |
 |:--------------------|:------------------|

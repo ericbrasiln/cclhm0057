@@ -33,7 +33,7 @@ Essa vídeo-aula abordará a [Leitura 8](https://cclhm0057.netlify.app/semanal/s
 
 **Tema**: As 13 Colônias do Norte e o Caribe
 
-**Data:**  12/07/2021 - 16/07/2021
+**Data:**  19/07/2021 - 23/07/2021
 
 **CH**: 1 hora
 

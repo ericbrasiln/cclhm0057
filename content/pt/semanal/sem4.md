@@ -48,7 +48,7 @@ Essa leitura será discutida no [Encontro virtual 3](https://cclhm0057.netlify.a
 
 **CH**: 1 horas
 
-**Plataforma**: `YouTube` [Link - em breve]()
+**Plataforma**: `YouTube` [Link](https://youtu.be/mgQcYe872fk)
 
 | Objetivos           | Conteúdos         |
 |:--------------------|:------------------|

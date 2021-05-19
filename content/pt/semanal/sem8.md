@@ -25,7 +25,7 @@ Legenda:
 
 ## Encontro Virtual 4 (AS)
 
-{{< notice info "Leiiura" >}}
+{{< notice info "Leitura" >}}
 Para essa aula é preciso ler a [Leitura 6](https://cclhm0057.netlify.app/semanal/sem7/#leitura-6-aa).
 {{< /notice >}}
 
@@ -33,11 +33,11 @@ Para essa aula é preciso ler a [Leitura 6](https://cclhm0057.netlify.app/semana
 
 **Tema**: A escravidão no “Novo Mundo”: tráfico, raça e trabalho
 
-**Data:**  09/07/2021
+**Data:**  05/07/2021
 
 **CH**: 2 horas
 
-**Plataforma**: `Google Meet` [Link - em breve]()
+**Plataforma**: `Google Meet` - link enviado por e-mail.
 
 | Objetivos           | Conteúdos         |
 |:--------------------|:------------------|
