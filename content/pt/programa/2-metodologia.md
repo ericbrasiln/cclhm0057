@@ -27,6 +27,8 @@ O curso está divido em 5 módulos. Cada módulo reúne um conjunto de atividade
 ### Plantões de atendimento via _Discord_:
 
 - Toda segunda-feira, entre 15h e 16h, estarei on-line no servidor do Discord disponível para atender dúvidas, demandas, responder comentários, debater questões pertientes e tentar tornar essa experiência mais humana.
+
+[Clique aqui](https://youtu.be/5nE__B9w20w) para assistir a um tutorial de como participar de nosso servidor no Discord.
  
 {{< alert theme="warning" >}}Não é obrigatório participar através do Discord. O convite para participar no discord será enviado para o e-mail cadastrado no SIGAA.{{< /alert >}}
 
