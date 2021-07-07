@@ -23,7 +23,7 @@ Legenda:
 
 **Data**: Segunda-feira, 02/08/2021, 15h-16h no *Discord*
 
-## Encontro Virtual 5 (AS)
+## Encontro Virtual 6 (AS)
 
 {{< notice info "Leitura" >}}
 Para essa aula é preciso ler a [Leitura 9](https://cclhm0057.netlify.app/semanal/sem11/#leitura-9-aa).

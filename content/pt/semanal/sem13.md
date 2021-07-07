@@ -23,13 +23,13 @@ Legenda:
 
 **Data**: Segunda-feira, 09/08/2021, 15h-16h no *Discord*
 
-## Encontro Virtual 6 (AS)
+## Encontro Virtual 7 (AS)
 
 **Tema**: A crise do sistema colonial
 
 **Data**: 09/08/2021
 
-**CH**: 2 horas
+**CH**: 1 hora
 
 **Plataforma**: `Google Meet` - link enviado por e-mail.
 

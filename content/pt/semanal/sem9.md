@@ -37,7 +37,7 @@ Essa vídeo-aula abordará a [Leitura 7](https://cclhm0057.netlify.app/semanal/s
 
 **CH**: 1 hora
 
-**Plataforma**: `YouTube` [Link - em breve]()
+**Plataforma**: `YouTube` [Link](https://youtu.be/lnyPIwc_KKo)
 
 | Objetivos           | Conteúdos         |
 |:--------------------|:------------------|
@@ -47,7 +47,7 @@ Essa vídeo-aula abordará a [Leitura 7](https://cclhm0057.netlify.app/semanal/s
 ## Leitura 8 (AA)
 
 {{< notice info "Atenação" >}}
-Essa leitura será abordada na [Vídeo-aula 5](https://cclhm0057.netlify.app/semanal/sem10/#v%C3%ADdeo-aula-5-aa)
+Essa leitura será discutida no [Encontro Virtual 5](https://cclhm0057.netlify.app/semanal/sem10/#encontro-virtual-5-as)
 {{< /notice >}}
 
 ***
@@ -59,3 +59,4 @@ Essa leitura será abordada na [Vídeo-aula 5](https://cclhm0057.netlify.app/sem
 **Textos Obrigatórios**:
 
 1. [BLACKBURN, Robin. “A formação da escravidão colonial inglesa.” In: A construção do escravismo no Novo Mundo. Rio de Janeiro: Record, 2003.](https://ericbrasiln.github.io/cclhm0057_ihl/textos/mod_5/blackburn.pdf)
+2. [KLEIN, Herbert & VISION III, Ben. O açúcar e a escravidão no Caribe nos séculos XVII e XVIII. In: A Escravidao Africana na America Latina e Caribe. Brasilia: Editora Universidade de Brasilia, 2015]()

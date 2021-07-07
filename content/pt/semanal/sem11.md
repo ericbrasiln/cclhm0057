@@ -26,7 +26,7 @@ Legenda:
 ## Leitura 9 (AA)
 
 {{< notice info "Atenção" >}}
-Essa leitura será discutida no [Encontro virtual 5](https://cclhm0057.netlify.app/semanal/sem12/#encontro-virtual-5-as)
+Essa leitura será discutida no [Encontro virtual 6](https://cclhm0057.netlify.app/semanal/sem12/#encontro-virtual-6-as)
 {{< /notice >}}
 
 ***
