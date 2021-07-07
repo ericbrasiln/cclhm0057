@@ -1,3 +1,5 @@
+![banner](static/images/header/banner1.png)
+
 # CCLHM0057 - 2020.2 (IHLM/UNILAB)
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/3b0d8b0f-b72d-42c9-bed1-70ea63e8b2ac/deploy-status)](https://app.netlify.com/sites/cclhm0057/deploys) [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
