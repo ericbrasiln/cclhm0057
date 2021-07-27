@@ -23,7 +23,7 @@ Legenda:
 
 **Data**: Segunda-feira, 19/07/2021, 15h-16h no *Discord*
 
-## Encontro Virtual 5 (AA)
+## Encontro Virtual 5 (AS)
 
 {{< notice info "Leitura" >}}
 Para essa aula é preciso ler a [Leitura 8](https://cclhm0057.netlify.app/semanal/sem9/#leitura-8-aa).
@@ -49,5 +49,5 @@ Para essa aula é preciso ler a [Leitura 8](https://cclhm0057.netlify.app/semana
 
 **CH**: 4 horas
 
-**Plataforma**: `SIGAA` [Link - em breve]()
+**Plataforma**: `SIGAA` [Link](atividades/AT2.pdf)
 

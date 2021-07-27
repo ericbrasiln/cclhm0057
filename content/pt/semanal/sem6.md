@@ -58,4 +58,3 @@ Essa leitura vai ser abordada na [Vídeo-aula 3](https://cclhm0057.netlify.app/s
 **Textos obrigatórios**:
 1. [RAMINELLI, R. Nobreza indígena da Nova Espanha: alianças e conquistas. *Tempo*, v. 14, n. 27, p. 68–81, 2009.](https://ericbrasiln.github.io/cclhm0057_ihl/textos/mod_4/Raminelli.pdf)
    - [Fichamento de apoio](https://ericbrasiln.github.io/cclhm0057_ihl/textos/mod_4/2021-02-01-fichamento-raminelli.html)
-2. [Gruzinsk. A definir]()

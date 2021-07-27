@@ -52,4 +52,4 @@ Para essa aula é preciso ler a [Leitura 3](https://cclhm0057.netlify.app/semana
 
 **CH**: 4 horas
 
-**Plataforma**: `SIGAA` [Link - em breve]()
+**Plataforma**: `SIGAA` [Link](atividades/AT1.pdf)
