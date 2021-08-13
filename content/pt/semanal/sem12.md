@@ -43,9 +43,9 @@ Para essa aula é preciso ler a [Leitura 9](https://cclhm0057.netlify.app/semana
 
 **Tema**: Trabalho final
 
-**Data**:  02/08/2021 - 13/08/2021
+**Data**:  09/08/2021 - 30/08/2021
 
 **CH**: 6 horas
 
-**Plataforma**: `SIGAA` [Link - em breve]()
+**Plataforma**: `SIGAA` [Link](atividades/AT3.pdf)
 
