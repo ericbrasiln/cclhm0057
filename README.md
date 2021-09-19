@@ -8,6 +8,6 @@ Site para o curso **CCLHM0057 - História da América: colonização e resistên
 
 O site é construído em RStudio, com o pacote Blogdown, utilizando HUGO e o tema zDoc. Publicado através do Netlify.
 
-O branch `main` corresponde ao semestre atual (versão 2020.2).
+O branch `main` corresponde ao semestre atual (versão 2021.1).
 
 Conteúdo criado por [Eric Brasil](https://ericbrasiln.github.io).
