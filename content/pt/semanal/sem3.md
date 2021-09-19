@@ -1,7 +1,7 @@
 ---
 title: "Semana 3"
-date: 2021-05-07
-description: "Período: 31/05/2021 - 04/06/2021"
+date: Sys.Date()
+description: "Período: 25/10/2021 - 29/10/2021"
 draft: false
 weight: 3
 ---
@@ -17,7 +17,7 @@ Legenda:
 
 ## Período
 
-31/05/2021 - 04/06/2021
+25/10/2021 - 29/10/2021
 
 ## Leitura 3 (AA)
 
@@ -27,7 +27,7 @@ Essa leitura será discutida no [Encontro virtual 2](https://cclhm0057.netlify.a
 
 ***
 
-**Data:** 31/05/2021 - 04/06/2021
+**Data:** 25/10/2021 - 29/10/2021
 
 **CH**: 4 horas
 
@@ -38,7 +38,7 @@ Essa leitura será discutida no [Encontro virtual 2](https://cclhm0057.netlify.a
 
 ## Plantão de atendimento
 
-**Data**: Segunda-feira, 31/05/2021, 15h-16h no *Discord*
+**Data**: Segunda-feira, 25/10/2021, 15h-16h no *Discord*
 
 ## Vídeo-aula 1 (AA)
 
@@ -50,7 +50,7 @@ Para essa aula é preciso ler a [Leitura 2](https://cclhm0057.netlify.app/semana
 
 **Tema**: Sociedades autóctones americanas antes do século XVI.
 
-**Data:** 31/05/2021 - 04/06/2021
+**Data:** 25/10/2021 - 29/10/2021
 
 **CH**: 1 horas
 

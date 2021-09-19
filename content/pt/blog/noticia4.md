@@ -1,7 +1,7 @@
 ---
 title: "Atividades dessa semana (07/06)"
 date: 2021-06-07
-draft: false
+draft: true
 weight: 4
 enableToc: true
 enableBlogBreadcrumb: false

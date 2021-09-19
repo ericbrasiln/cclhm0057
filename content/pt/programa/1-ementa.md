@@ -1,7 +1,7 @@
 ---
 title: "1. Ementa"
 description: "O que vcs vão aprender nesse curso"
-date: 2021-03-31T14:21:46-03:00
+date: Sys.Date()
 draft: false
 weight: 1
 ---

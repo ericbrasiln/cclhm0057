@@ -1,7 +1,7 @@
 ---
 title: "Atividades Semanais"
 description: "Todas as tarefas, leituras, encontros dividas por semanas"
-date: 2021-04-27
+date: Sys.Date()
 draft: false
 ---
 

@@ -2,7 +2,7 @@
 title: "Semana 8"
 date: 2021-05-10
 description: "Período: 05/07/2021 - 09/07/2021"
-draft: false
+draft: true
 weight: 8
 ---
 

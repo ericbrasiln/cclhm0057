@@ -1,7 +1,7 @@
 ---
 title: "Semana 2"
-date: 2021-05-07
-description: "Período: 24/05/2021 - 28/05/2021"
+date: Sys.Date()
+description: "Período: 18/10/2021 - 22/10/2021"
 draft: false
 weight: 2
 ---
@@ -17,7 +17,7 @@ Legenda:
 
 ## Período
 
-24/05/2021 - 28/05/2021
+18/10/2021 - 22/10/2021
 
 ## Leitura 2 (AA)
 
@@ -25,7 +25,7 @@ Legenda:
 Essa leitura será abordada na [Vídeo-aula 1](https://cclhm0057.netlify.app/semanal/sem3/#v%C3%ADdeo-aula-1-aa)
 {{< /notice >}}
 
-**Data:** 24/05/2021 - 28/05/2021
+**Data:** 18/10/2021 - 22/10/2021
 
 **CH**: 4 horas
 
@@ -36,7 +36,7 @@ Essa leitura será abordada na [Vídeo-aula 1](https://cclhm0057.netlify.app/sem
 
 ## Plantão de atendimento
 
-**Data**: Segunda-feira, 24/05/2021, 15h-16h no *Discord*
+**Data**: Segunda-feira, 18/10/2021, 15h-16h no *Discord*
 
 ## Encontro Virtual 1 (AS)
 
@@ -48,7 +48,7 @@ Para essa aula é preciso ler a [Leitura 1](https://cclhm0057.netlify.app/semana
 
 ***
 
-**Data:** 24/05/2021
+**Data:** 19/10/2021
 
 **Horário**: 19h - 21h
 

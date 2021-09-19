@@ -1,7 +1,7 @@
 ---
 title: "Playlist de vídeos e convites para Meet"
 date: 2021-05-19
-draft: false
+draft: true
 weight: 3
 enableToc: true
 enableBlogBreadcrumb: false

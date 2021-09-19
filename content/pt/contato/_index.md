@@ -1,7 +1,7 @@
 ---
 title: "Contatos"
 description: "Onde me encontrar"
-date: 2021-03-31T23:23:21-03:00
+date: Sys.Date()
 draft: false
 ---
 
@@ -11,9 +11,6 @@ draft: false
 
 ## Twitter
   - <a href="https://twitter.com/ericbrasiln" target="_blank">@ericbrasiln</a>
-
-## Instagram 
-  - <a href="https://www.instagram.com/ericbrasiln/" target="_blank">ericbrasiln</a>
 
 ## Site pessoal
   - <a href="https://ericbrasiln.github.io/" target="_blank"> ericbrasiln.github.io</a>

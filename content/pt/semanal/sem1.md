@@ -1,7 +1,7 @@
 ---
 title: "Semana 1"
-date: 2021-05-07
-description: "Período: 17/05/2021 - 21/05/2021"
+date: Sys.Date()
+description: "Período: 11/10/2021 - 15/10/2021"
 draft: false
 weight: 1
 ---
@@ -17,23 +17,23 @@ Legenda:
 
 ## Período
 
-17/05/2021 - 21/05/2021
+11/10/2021 - 15/10/2021
 
 ## Tarefa 01 (AA)
 
 **Tema**: Assistir vídeo de apresentação e preencher o Formulário
 
-**Data:** 17/05/2021 – 23/05/2021
+**Data:** 11/10/2021 - 15/10/2021
 
 **CH**: 1 hora
 
 **Plataforma**: `Google Formulários`
 
-***[LINK PARA O FORMULÁRIO](https://forms.gle/hkYqqmxtjz5tsouG8).***
+***[LINK PARA O FORMULÁRIO - EM BREVE]().***
 
 **Plataforma**: `YouTube`
 
-***[LINK PARA O VÍDEO DE APRESENTAÇÃO](https://youtu.be/3S28KzHiK-g).***
+***[LINK PARA O VÍDEO DE APRESENTAÇÃO - EM BREVE]().***
 
 ## Leitura 1 (AA)
 
@@ -43,7 +43,7 @@ Essa leitura será discutida no [Encontro virtual 1](https://cclhm0057.netlify.a
 
 ***
 
-**Data:** 17/05/2021 – 21/05/2021
+**Data:** 11/10/2021 - 15/10/2021
 
 **CH**: 2 horas
 

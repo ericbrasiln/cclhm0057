@@ -1,7 +1,7 @@
 ---
 title: CCLHM0057
 description: Página inicial
-date: 2020-01-26T04:15:05+09:00
+date: Sys.Date()
 draft: false
 landing:
   height: 500
@@ -10,7 +10,7 @@ landing:
     - CCLHM0057
   text:
     - História da América - colonização e resistência
-    - 2020.2 - IHLM/UNILAB
+    - 2021.1 - IHLM/UNILAB
     - Professor Eric Brasil
   titleColor: 
   textColor:

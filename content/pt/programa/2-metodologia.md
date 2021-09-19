@@ -1,7 +1,7 @@
 ---
 title: "2. Metodologia"
 description: "Como vamos aprender"
-date: 2021-03-31T15:06:16-03:00
+date: Sys.Date()
 draft: false
 weight: 2
 ---
@@ -14,13 +14,13 @@ O curso está divido em 5 módulos. Cada módulo reúne um conjunto de atividade
 
 ### Encontros virtuais:
 
-- Os encontros virtuais terão entre **uma hora e uma hora e trinta minutos de duração**, entre 19h e 20h30min, às segundas-feiras conforme no [cronograma](https://cclhm0057.netlify.app/programa/3-cronograma/);
+- Os encontros virtuais terão entre **uma hora e uma hora e trinta minutos de duração**, entre 19h e 20h30min, às terças-feiras, conforme no [cronograma](https://cclhm0057.netlify.app/programa/3-cronograma/);
 
 - Os encontros virtuais serão focados em **debate de textos da bibliografia do curso**. Não serão aulas expositivas, portanto, a leitura dos textos indicados é fundamental para participar do encontro;
 
 - Não haverá cobrança de presença nos encontros virtuais;
   
-- Os links para acesso da sala no _Google Meet_ serão enviados com antecedência para os e-mails cadastrados no SIGAA. 
+- O link para acesso da sala no _Google Meet_ será enviado com antecedência para os e-mails cadastrados no SIGAA. 
 
 {{< alert theme="info" >}} Não haverá permissão de ingresso na sala virtual após o início do encontro. Os/as discentes devem aceitar o convite para participar através do link antes do início da aula. {{< /alert >}}
 

@@ -1,7 +1,7 @@
 ---
 title: "Atendimento de Monitoria"
 date: 2021-07-05
-draft: false
+draft: true
 weight: 5
 enableToc: true
 enableBlogBreadcrumb: false

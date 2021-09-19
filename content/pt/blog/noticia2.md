@@ -1,7 +1,7 @@
 ---
 title: "Convite para participar do servidor do Discord"
 date: 2021-05-18
-draft: false
+draft: true
 weight: 2
 enableToc: true
 enableBlogBreadcrumb: false

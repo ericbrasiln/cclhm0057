@@ -1,7 +1,7 @@
 ---
 title: "Boas-vindas e contato inicial"
-date: 2021-05-17
-draft: false
+date: Sys.Date()
+draft: true
 weight: 1
 enableToc: true
 enableBlogBreadcrumb: false
@@ -25,7 +25,7 @@ Clique aqui para acessar o site: [cclhm0057.netlify/app](https://cclhm0057.netli
 
 Criei um vídeo de apresentação geral sobre o curso e o próprio site. Vejam o vídeo [clicando aqui](https://youtu.be/3S28KzHiK-g). 
 
-Na tentativa de conhecer um pouco suas práticas de pesquisa e estudo em ambiente virtual, elaborei um breve formulário que deve ser preenchido entre 17 e 23 de maio.
+Na tentativa de conhecer um pouco suas práticas de pesquisa e estudo em ambiente virtual, elaborei um breve formulário que deve ser preenchido entre 12 e 25 de outubro.
 
 [Clique aqui para acessar o formulário](https://forms.gle/ZkqhVPzzuwagHc9X8).
 

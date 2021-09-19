@@ -1,6 +1,6 @@
 ---
 title: "4. Como usar esse site"
-date: 2021-04-27
+date: Sys.Date()
 description: "Explicações e dicas técnicas e acadêmicas"
 draft: false
 weight: 4
