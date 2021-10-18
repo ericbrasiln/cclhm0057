@@ -1,8 +1,8 @@
 ---
 title: "Semana 9"
-date: 2021-05-10
-description: "Período: 12/07/2021 - 16/07/2021"
-draft: true
+date: Sys.Date()
+description: "Período: 06/12/2021 - 10/12/2021"
+draft: false
 weight: 9
 ---
 
@@ -17,11 +17,11 @@ Legenda:
 
 ## Período
 
-12/07/2021 - 16/07/2021
+06/12/2021 - 10/12/2021
 
 ## Plantão de atendimento
 
-**Data**: Segunda-feira, 12/07/2021, 15h-16h no *Discord*
+**Data**: Segunda-feira, 06/12/2021, 15h-16h no *Discord*
 
 ## Vídeo-aula 4 (AA)
 
@@ -33,7 +33,7 @@ Essa vídeo-aula abordará a [Leitura 7](https://cclhm0057.netlify.app/semanal/s
 
 **Tema**: A escravidão no México, Região Andina e Região Platina
 
-**Data:**  12/07/2021 - 16/07/2021
+**Data:**  06/12/2021 - 10/12/2021
 
 **CH**: 1 hora
 
@@ -52,7 +52,7 @@ Essa leitura será discutida no [Encontro Virtual 5](https://cclhm0057.netlify.a
 
 ***
 
-**Data**: 19/07/2021 - 23/07/2021
+**Data**: 06/12/2021 - 10/12/2021
 
 **CH**: 4 horas
 

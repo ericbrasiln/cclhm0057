@@ -19,9 +19,9 @@ Legenda:
 
 11/10/2021 - 15/10/2021
 
-## Tarefa 01 (AA)
+## Atividade Assíncrona 01 (AA)
 
-**Tema**: Assistir vídeo de apresentação e preencher o Formulário
+**Tema**: Preencher o Formulário
 
 **Data:** 11/10/2021 - 15/10/2021
 
@@ -29,11 +29,20 @@ Legenda:
 
 **Plataforma**: `Google Formulários`
 
-***[LINK PARA O FORMULÁRIO - EM BREVE]().***
+***[LINK PARA O FORMULÁRIO](https://forms.gle/KV8ngK91QABu4xYH9).***
 
-**Plataforma**: `YouTube`
+## Tarefa 01 (AA)
 
-***[LINK PARA O VÍDEO DE APRESENTAÇÃO - EM BREVE]().***
+**Tema**: Participar do servidor do Discord
+
+**Prazo**: entre 13/10/2021 e 18/10/2021
+
+* Veja o vídeo com um breve tutorial de como acessar o Discord: clique aqui
+* Se torne membro do servidor de nossa turma através do convite: https://discord.gg/SE9TV4c3
+* Mande uma mensagem de apresentação no servidor `#geral`
+
+⚠️ Atenção, o link expira em sete dias.
+⚠️ Lembrando que não há obrigatoriedade em participar do discord, mas é altamente recomendado.
 
 ## Leitura 1 (AA)
 

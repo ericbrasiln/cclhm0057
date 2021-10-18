@@ -1,8 +1,8 @@
 ---
 title: "Semana 4"
-date: 2021-05-07
-description: "Período: 07/06/2021 - 11/06/2021"
-draft: True
+date: Sys.Date()
+description: "Período: 01/11/2021 - 05/11/2021"
+draft: false
 weight: 4
 ---
 
@@ -17,7 +17,7 @@ Legenda:
 
 ## Período
 
-07/06/2021 - 11/06/2021
+01/11/2021 - 05/11/2021
 
 ## Leitura 4 (AA)
 
@@ -27,7 +27,7 @@ Essa leitura será discutida no [Encontro virtual 3](https://cclhm0057.netlify.a
 
 ***
 
-**Data:** 07/06/2021 - 11/06/2021
+**Data:** 01/11/2021 - 05/11/2021
 
 **CH**: 4 horas
 
@@ -38,13 +38,13 @@ Essa leitura será discutida no [Encontro virtual 3](https://cclhm0057.netlify.a
 
 ## Plantão de atendimento
 
-**Data**: Segunda-feira, 07/06/2021, 15h-16h no *Discord*
+**Data**: Segunda-feira, 01/11/2021, 15h-16h no *Discord*
 
 ## Vídeo-aula 2 (AA)
 
 **Tema**: Expansão europeia nos séculos XV e XVI.
 
-**Data:**  07/06/2021 - 11/06/2021
+**Data:**  01/11/2021 - 05/11/2021
 
 **CH**: 1 horas
 

@@ -1,8 +1,8 @@
 ---
 title: "Semana 5"
-date: 2021-05-07
-description: "Período: 14/06/2021 - 18/06/2021"
-draft: true
+date: Sys.Date()
+description: "Período: 08/11/2021 - 12/11/2021"
+draft: false
 weight: 5
 ---
 
@@ -17,11 +17,11 @@ Legenda:
 
 ## Período
 
-14/06/2021 - 18/06/2021
+08/11/2021 - 12/11/2021
 
 ## Plantão de atendimento
 
-**Data**: Segunda-feira, 14/06/2021, 15h-16h no *Discord*
+**Data**: Segunda-feira, 08/11/2021, 15h-16h no *Discord*
 
 ## Encontro Virtual 2 (AS)
 
@@ -33,7 +33,7 @@ Para essa aula é preciso ler a [Leitura 3](https://cclhm0057.netlify.app/semana
 
 ***
 
-**Data:**  14/06/2021
+**Data:**  09/11/2021
 
 **CH**: 2 horas
 
@@ -48,7 +48,7 @@ Para essa aula é preciso ler a [Leitura 3](https://cclhm0057.netlify.app/semana
 
 **Tema**: Análise de fontes.
 
-**Data:**  14/06/2021 - 05/07/2021
+**Data:**  10/11/2021 - 01/12/2021
 
 **CH**: 4 horas
 

@@ -1,8 +1,8 @@
 ---
 title: "Semana 7"
-date: 2021-05-10
-description: "Período: 28/06/2021 - 01/07/2021"
-draft: true
+date: Sys.Date()
+description: "Período: 22/11/2021 - 26/11/2021"
+draft: false
 weight: 7
 ---
 
@@ -17,17 +17,17 @@ Legenda:
 
 ## Período
 
-28/06/2021 - 01/07/2021
+22/11/2021 - 26/11/2021
 
 ## Plantão de atendimento
 
-**Data**: Segunda-feira, 28/06/2021, 15h-16h no *Discord*
+**Data**: Segunda-feira, 22/11/2021, 15h-16h no *Discord*
 
 ## Vídeo-aula 3 (AA)
 
 **Tema**: Formação da sociedade colonial espanhola (XVI-XVIII)
 
-**Data:**  28/06/2021 - 01/07/2021
+**Data:**  22/11/2021 - 26/11/2021
 
 **CH**: 1 horas
 
@@ -45,7 +45,7 @@ Essa leitura será discutida no [Encontro virtual 4](https://cclhm0057.netlify.a
 
 ***
 
-**Data:**  28/06/2021 - 01/07/2021
+**Data:**  22/11/2021 - 26/11/2021
 
 **CH**: 4 horas
 

@@ -1,8 +1,8 @@
 ---
 title: "Semana 11"
-date: 2021-05-10
-description: "Período: 26/07/2021 - 30/07/2021"
-draft: true
+date: Sys.Date()
+description: "Período: 20/12/2021 - 23/12/2021"
+draft: false
 weight: 11
 ---
 
@@ -17,11 +17,7 @@ Legenda:
 
 ## Período
 
-26/07/2021 - 30/07/2021
-
-## Plantão de atendimento
-
-**Data**: Segunda-feira, 26/07/2021, 15h-16h no *Discord*
+20/12/2021 - 23/12/2021
 
 ## Leitura 9 (AA)
 
@@ -31,7 +27,7 @@ Essa leitura será discutida no [Encontro virtual 6](https://cclhm0057.netlify.a
 
 ***
 
-**Data**: 26/07/2021 - 30/07/2021
+**Data**: 20/12/2021 - 07/01/2022
 
 **CH**: 4 horas
 
@@ -43,7 +39,7 @@ Essa leitura será discutida no [Encontro virtual 6](https://cclhm0057.netlify.a
 
 **Tema**: Vídeo de apoio - Entrevista com João Reis (UFBA)
 
-**Data:**  26/07/2021 - 30/07/2021
+**Data:**  20/12/2021 - 07/01/2022
 
 **CH**: 2 horas
 

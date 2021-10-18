@@ -1,8 +1,8 @@
 ---
 title: "Semana 13"
-date: 2021-05-10
-description: "Período: 09/08/2021 - 13/08/2021"
-draft: true
+date: Sys.Date()
+description: "Período: 24/01/2022 - 28/01/2022"
+draft: false
 weight: 13
 ---
 
@@ -17,17 +17,17 @@ Legenda:
 
 ## Período
 
-09/08/2021 - 13/08/2021
+24/01/2022 - 28/01/2022
 
 ## Plantão de atendimento
 
-**Data**: Segunda-feira, 09/08/2021, 15h-16h no *Discord*
+**Data**: Segunda-feira, 24/01/2022, 15h-16h no *Discord*
 
 ## Encontro Virtual 7 (AS)
 
 **Tema**: A crise do sistema colonial
 
-**Data**: 09/08/2021
+**Data**: 25/01/2022
 
 **CH**: 1 hora
 
@@ -37,7 +37,7 @@ Legenda:
 
 **Tema**: Formulário de avaliação do curso e do docente.
 
-**Data**:  09/08/2021 - 30/08/2021
+**Data**:  24/01/2022 - 01/02/2022
 
 **CH**: 1 hora
 

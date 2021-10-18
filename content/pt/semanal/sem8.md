@@ -1,8 +1,8 @@
 ---
 title: "Semana 8"
-date: 2021-05-10
-description: "Período: 05/07/2021 - 09/07/2021"
-draft: true
+date: Sys.Date()
+description: "Período: 29/11/2021 - 03/12/2021"
+draft: false
 weight: 8
 ---
 
@@ -17,11 +17,11 @@ Legenda:
 
 ## Período
 
-05/07/2021 - 09/07/2021
+29/11/2021 - 03/12/2021
 
 ## Plantão de atendimento
 
-**Data**: Segunda-feira, 09/07/2021, 15h-16h no *Discord*
+**Data**: Segunda-feira, 29/11/2021, 15h-16h no *Discord*
 
 ## Encontro Virtual 4 (AS)
 
@@ -33,7 +33,7 @@ Para essa aula é preciso ler a [Leitura 6](https://cclhm0057.netlify.app/semana
 
 **Tema**: A escravidão no “Novo Mundo”: tráfico, raça e trabalho
 
-**Data:**  05/07/2021
+**Data:**  29/11/2021
 
 **CH**: 2 horas
 
@@ -51,7 +51,7 @@ Essa leitura será abordada na [Vídeo-aula 4](https://cclhm0057.netlify.app/sem
 
 ***
 
-**Data:**  05/07/2021 - 09/07/2021
+**Data:**  29/11/2021 - 03/12/2021
 
 **CH**: 4 horas
 

@@ -1,8 +1,8 @@
 ---
 title: "Semana 10"
-date: 2021-05-10
-description: "Período: 19/07/2021 - 23/07/2021"
-draft: true
+date: Sys.Date()
+description: "Período: 13/12/2021 - 17/12/2021"
+draft: false
 weight: 10
 ---
 
@@ -17,11 +17,11 @@ Legenda:
 
 ## Período
 
-19/07/2021 - 23/07/2021
+13/12/2021 - 17/12/2021
 
 ## Plantão de atendimento
 
-**Data**: Segunda-feira, 19/07/2021, 15h-16h no *Discord*
+**Data**: Segunda-feira, 13/12/2021, 15h-16h no *Discord*
 
 ## Encontro Virtual 5 (AS)
 
@@ -33,7 +33,7 @@ Para essa aula é preciso ler a [Leitura 8](https://cclhm0057.netlify.app/semana
 
 **Tema**: As 13 Colônias do Norte e o Caribe nos séculos XVII e XVIII
 
-**Data:**  19/07/2021
+**Data:**  14/12/2021
 
 **CH**: 2 horas
 
@@ -45,7 +45,7 @@ Para essa aula é preciso ler a [Leitura 8](https://cclhm0057.netlify.app/semana
 
 ## Atividade Avaliativa 2 (AA)
 
-**Data:**  19/07/2021 - 06/08/2021
+**Data:**  13/12/2021 - 11/01/2022
 
 **CH**: 4 horas
 

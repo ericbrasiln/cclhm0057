@@ -1,8 +1,8 @@
 ---
 title: "Semana 6"
-date: 2021-05-07
-description: "Período: 21/06/2021 - 25/06/2021"
-draft: true
+date: Sys.Date()
+description: "Período: 16/11/2021 - 19/11/2021"
+draft: false
 weight: 6
 ---
 
@@ -17,11 +17,7 @@ Legenda:
 
 ## Período
 
-21/06/2021 - 25/06/2021
-
-## Plantão de atendimento
-
-**Data**: Segunda-feira, 21/06/2021, 15h-16h no *Discord*
+16/11/2021 - 19/11/2021
 
 ## Encontro Virtual 3 (AS)
 
@@ -33,7 +29,7 @@ Para essa aula é preciso ler a [Leitura 4](https://cclhm0057.netlify.app/semana
 
 ***
 
-**Data:**  21/06/2021
+**Data:**  16/11/2021
 
 **CH**: 2 horas
 
@@ -51,9 +47,9 @@ Essa leitura vai ser abordada na [Vídeo-aula 3](https://cclhm0057.netlify.app/s
 
 ***
 
-**Data:**  21/06/2021 - 25/06/2021
+**Data:**  16/11/2021 - 19/11/2021
 
-**CH**: 4 horas
+**CH**: 2 horas
 
 **Textos obrigatórios**:
 1. [RAMINELLI, R. Nobreza indígena da Nova Espanha: alianças e conquistas. *Tempo*, v. 14, n. 27, p. 68–81, 2009.](https://ericbrasiln.github.io/cclhm0057_ihl/textos/mod_4/Raminelli.pdf)

@@ -1,8 +1,8 @@
 ---
 title: "Semana 12"
-date: 2021-05-10
-description: "Período: 02/08/2021 - 06/08/2021"
-draft: true
+date: Sys.Date()
+description: "Período: 17/01/2022 - 21/01/2022"
+draft: false
 weight: 12
 ---
 
@@ -17,11 +17,11 @@ Legenda:
 
 ## Período
 
-02/08/2021 - 06/08/2021
+17/01/2022 - 21/01/2022
 
 ## Plantão de atendimento
 
-**Data**: Segunda-feira, 02/08/2021, 15h-16h no *Discord*
+**Data**: Segunda-feira, 17/01/2022, 15h-16h no *Discord*
 
 ## Encontro Virtual 6 (AS)
 
@@ -33,7 +33,7 @@ Para essa aula é preciso ler a [Leitura 9](https://cclhm0057.netlify.app/semana
 
 **Tema**: Debate de texto - Lutas contra o cativeiro, lutas pela liberdade
 
-**Data**: 02/08/2021
+**Data**: 18/01/2022
 
 **CH**: 2 horas
 
@@ -43,7 +43,7 @@ Para essa aula é preciso ler a [Leitura 9](https://cclhm0057.netlify.app/semana
 
 **Tema**: Trabalho final
 
-**Data**:  09/08/2021 - 30/08/2021
+**Data**:  17/01/2022 - 15/02/2022
 
 **CH**: 6 horas
 
