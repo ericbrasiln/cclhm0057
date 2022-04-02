@@ -8,9 +8,18 @@ weight: 2
 
 # Metodologias de ensino:
 
-O curso está divido em 5 módulos. Cada módulo reúne um conjunto de atividades síncronas e assíncronas organizadas por semana.
+O curso está divido em 5 módulos. Cada módulo reúne um conjunto de aulas presenciais, atividades síncronas e assíncronas organizadas por semana.
 
-## Atividades Síncronas (AS):
+📢 **Legenda**: 
+
+- 🙋 = Aula Presencial
+- 💻 = Aula síncrona online
+- 📖 = Leitura
+- 🤖 = Atividade Assíncrona
+- 📬 = Tarefas assíncronas que devem ser entregues via SIGAA
+
+## 🙋 Aula Presencial:
+
 
 ### Encontros virtuais:
 

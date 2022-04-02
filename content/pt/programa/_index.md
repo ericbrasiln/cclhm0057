@@ -16,7 +16,7 @@ ou por e-mail : profericbrasil@unilab.edu.br / ericbrasiln@protonmail.com
 
 **Disciplina obrigatória do curso de [licenciatura em História](http://historia.males.unilab.edu.br/)**
 
-**Semestre**: 2021.1
+**Semestre**: 2021.2
 
 **Carga Horária**:
 
@@ -24,7 +24,7 @@ ou por e-mail : profericbrasil@unilab.edu.br / ericbrasiln@protonmail.com
 |:--------------------|:------------------|:---------|
 | 60h | 15h | 75h |
 
-**Horário das aulas síncronas** (conforme [cronograma](cronograma)): terças-feiras, 19h às 21h
+**Horário das aulas síncronas** (conforme [cronograma](cronograma)): terças-feiras, 18h às 22h
 
 ***
 
@@ -35,14 +35,6 @@ Sejam bem-vindos/as ao curso!
 Mesmo nesse momento tão difícil, vamos nos empenhar em ter um semestre tranquilo e compreensivo.
 
 Nesse site vcs encontram todo o material do curso, as informações sobre cornograma, tarefas, notícias.
-
-{{< img src="/images/discord.png" width="350px" position="center" >}}
-
-Nosso espaço para conversas, ajuda, tirar dúvidas, compartilhar angústias e apreensões, trocar gifs e dar suporte emocional uns aos outros será em um servidor Discord. Você receberá um convite por email para participar. 
-
-{{< notice warning "Atenção" >}}
-Não é obrigatório participar através do Discord.
-{{< /notice >}}
 
 ---
 

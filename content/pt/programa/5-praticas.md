@@ -32,9 +32,9 @@ Devido o caráter remoto de nossa disciplina, estou conferindo carga horária pa
 
 Ao longo do curso, teremos várias atividades assíncronas. Elas são fundamentais para a composição da carga horária e para que possamos atingir os nossos objetivos.
 
-Além das leituras, teremos vídeo-aulas expositivas (entre 45min e 1h), algumas tarefas (como assistir vídeos complementares, ouvir podcasts, acessar páginas indicadas). Essas atividades contam carga horária, mas não pontuação nem contam como presença.
+Além das leituras, teremos vídeo-aulas expositivas (entre 45min e 1h) e vídeos de apoio Essas atividades contam carga horária, mas não pontuação nem contam como presença.
 
-Teremos três **Atividades Avaliativas** para medir pontuação e aferir presenças. Essas atividades estarão disponíveis no SIGAA e devem ser entregues exclusivamentes pelo SIGAA dentro do prazo previsto.
+Teremos três **Tarefas** para medir pontuação e aferir presenças. Essas tarefas correspondem a relatórios de cada módulo estarão disponíveis no SIGAA e devem ser entregues exclusivamentes pelo SIGAA dentro do prazo previsto.
 
 {{< alert theme="warning" >}}Não serão aceitas atividades avaliativas entregues por e-mail{{< /alert >}}
 
