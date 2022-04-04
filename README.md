@@ -1,4 +1,4 @@
-![banner](static/images/header/banner1.png)
+![banner](https://github.com/ericbrasiln/cclhm0057/blob/main/static/images/header/banner1.png?raw=true)
 
 # CCLHM0057 - 2021.2 (IHLM/UNILAB)
 
@@ -6,8 +6,11 @@
 
 Site para o curso **CCLHM0057 - História da América: colonização e resistência**, no âmbito do curso de licenciatura em História, do Instituto de Humanidades e Letras, campus dos Malês, UNILAB.
 
-O site é construído em RStudio, com o pacote Blogdown, utilizando HUGO e o tema zDoc. Publicado através do Netlify.
+Criado com [Jupyter Book](https://jupyterbook.org/intro.html).
 
-O branch `main` corresponde ao semestre atual (versão 2021.2).
+A versão atual é referente ao semestre 2021.2 (no branch `main`). E os arquivos html estão disponíveis no branch `gh-pages`, que é usado para a publicação online.
+
+Licença: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 
 Conteúdo criado por [Eric Brasil](https://ericbrasiln.github.io).
+
