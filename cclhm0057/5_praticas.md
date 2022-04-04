@@ -1,12 +1,14 @@
----
-title: "5. Guia de boas práticas"
-date: "Sys.Date()"
-description: Um breve guia de boas práticas
-draft: false
-weight: 5
----
+# Guia de boas práticas
 
-Conjunto de sugestões e indicações de boas práticas para o bom funcionamento do curso ao longo do semestre 2020.2.
+Conjunto de sugestões e indicações de boas práticas para o bom funcionamento do curso ao longo do semestre 2021.2.
+
+## Leituras
+
+Esse é um curso obrigatório do PPC do curso de licenciatura em História. As leituras indicadas são fundamentais atingir os objetivos da disciplina.
+
+Portanto, é parte das tarefas dos/as discentes ler a bibliografia.
+
+Devido à conjuntura do semestre, estou conferindo carga horária para as leituras obrigatórias.
 
 ## Leituras
 
@@ -32,15 +34,18 @@ Não enviem as atividades avaliativas em formato PDF.
 
 Como material de apoio, disponibilizarei uma biblioteca das referências utilizadas no curso construída com o programa [Zotero](https://www.zotero.org/).
 
-Indico fortemente que passem a utilizar algum programa pára gerenciar referências bibliográficas. Para maiores informações sobre o Zotero, veja:
+Indico fortemente que passem a utilizar algum programa para gerenciar referências bibliográficas. 
+Para maiores informações sobre o Zotero, veja:
 
--   [Aula do curso Ferramentas digitais](https://ericbrasiln.github.io/ferramentas_digitais_UNILAB/aula3-zotero.html)
--   [Tutorial de instalação](https://www.youtube.com/embed/CPdhyKboKC0)
--   [Workshop de Zotero](https://www.youtube.com/watch?v=I5ohkh5d51Y)
+- [Aula do curso Ferramentas digitais](https://ericbrasiln.github.io/ferramentas_digitais_UNILAB/aula3-zotero.html)
+- [Tutorial de instalação](https://www.youtube.com/embed/CPdhyKboKC0)
+- [Workshop de Zotero](https://www.youtube.com/watch?v=I5ohkh5d51Y)
 
-## Plágio
+### Plágio
 
 **Todas as atividades avaliativas serão analisadas por software anti-plágio fornecido pela UNILAB.**
+
+Todos os trabalhos serão submetidos à análise do programa Turnitin Originality, que é um software de análise de plágio e similaridades.
 
 Qualquer atividade com ocorrência de plágio será zerada.
 

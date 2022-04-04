@@ -1,17 +1,13 @@
----
-title: "3. Cronograma"
-date: Sys.Date()
-description: "A divisão dos dias, atividades e temas"
-draft: false
-weight: 3
----
+# Cronograma
 
 A divisão dos dias, atividades e temas para vcs organizarem suas vidas.
 
-Legenda: 
-
-- AA = Atividade Assíncrona
-- AS = Atividade Síncrona
+**Legenda**
+- 🙋 = Aula Presencial
+- 💻 = Aula síncrona online
+- 📖 = Leitura
+- 🤖 = Atividade Assíncrona
+- 📬 = Tarefas assíncronas que devem ser entregues via SIGAA
 
 ## Semana 1
 

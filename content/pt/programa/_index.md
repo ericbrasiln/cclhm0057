@@ -20,7 +20,7 @@ ou por e-mail : profericbrasil@unilab.edu.br / ericbrasiln@protonmail.com
 
 **Carga Horária**:
 
-| Teórica             | Prática como compontente curricular         | Total |
+| Teórica             | Prática como componente curricular         | Total |
 |:--------------------|:------------------|:---------|
 | 60h | 15h | 75h |
 
@@ -34,7 +34,7 @@ Sejam bem-vindos/as ao curso!
 
 Mesmo nesse momento tão difícil, vamos nos empenhar em ter um semestre tranquilo e compreensivo.
 
-Nesse site vcs encontram todo o material do curso, as informações sobre cornograma, tarefas, notícias.
+Nesse site vcs encontram todo o material do curso, as informações sobre coronograma, tarefas, notícias.
 
 ---
 

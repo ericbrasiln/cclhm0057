@@ -1,3 +1,0 @@
-# Como usar o site
-
-Em breve...
