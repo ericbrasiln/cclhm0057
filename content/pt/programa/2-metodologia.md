@@ -50,20 +50,21 @@ Buscando otimizar nosso tempo e ampliar a possibilidade de aulas, teremos um enc
 
 ## 📬 Tarefas assíncronas que devem ser entregues via SIGAA
 
-- As tarefas assíncronas visam promover a reflexão críticas das leituras e/ou das vídeo-aulas da semana.
+- Teremos três **Tarefas** para medir pontuação e aferir presenças. Essas tarefas correspondem a relatórios de cada módulo
+- Devem ser entregues exclusivamentes pelo SIGAA dentro do prazo previsto.
 
 ## Recursos Didáticos
 
 - Discord;
 - Google Meet;
-- Site da disciplina;
 - SIGAA;
 - Vídeo-aulas;
 - Biblioteca de referências no Zotero.
 
 ## Avaliação da aprendizagem
 
-- O/a discente terá três atividades avaliativas que devem ser entregues pelo SIGAA ao longo do curso;
+- O/a discente terá quatro atividades avaliativas que devem ser entregues pelo SIGAA ao longo do curso;
 - Os prazos estão definidos no [cronograma](https://cclhm0057.netlify.app/programa/3-cronograma/) do curso.
-- As atividades 1 e 2 (AT1 & AT2) valem **2,5 pontos** e a atividade 3 (AT3) vale **5,0 pontos**.
-- As frequências serão aferidas através da entrega das atividades avaliativas.
+- As tarefas 1, 2 e 3 (T1, T2 & T3) valem **1 ponto** cada, somando no máximo 3,0 pontos.
+- O trabalho final vale **7,0 pontos**.
+- As frequências serão aferidas através de chamada nas aulas presenciais e entrega dessas atividades assíncronas.

@@ -1,5 +1,8 @@
 ---
 title: "5. Guia de boas práticas"
+date: "Sys.Date()"
+description: Um breve guia de boas práticas
+draft: false
 weight: 5
 ---
 
